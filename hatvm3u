@@ -1,0 +1,353 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="" group-title="",民視
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_5_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="" group-title="",CNN
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_6_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="" group-title="",台視
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_7_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="人間衛視" tvg-name="人間衛視" tvg-logo="" group-title="",人間衛視
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_8_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="" group-title="",中視
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_9_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="" group-title="",華視
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_11_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="動物星球" tvg-name="動物星球" tvg-logo="" group-title="",動物星球
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_12_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="公視" tvg-name="公視" tvg-logo="" group-title="",公視
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_13_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="公視台語" tvg-name="公視台語" tvg-logo="" group-title="",公視台語
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_14_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="原視" tvg-name="原視" tvg-logo="" group-title="",原視
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_16_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="客視" tvg-name="客視" tvg-logo="" group-title="",客視
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_17_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="" group-title="",BBC Earth
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_18_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="" group-title="",DISCOVERY
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_19_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="中台灣生活網" tvg-name="中台灣生活網" tvg-logo="" group-title="",中台灣生活網
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_20_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="TLC頻道" tvg-name="TLC頻道" tvg-logo="" group-title="",TLC頻道
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_21_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="卡通頻道" tvg-name="卡通頻道" tvg-logo="" group-title="",卡通頻道
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_22_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="CARTOONITO" tvg-name="CARTOONITO" tvg-logo="" group-title="",CARTOONITO
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_23_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="MOMO親子台" tvg-name="MOMO親子台" tvg-logo="" group-title="",MOMO親子台
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_24_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="東森幼幼" tvg-name="東森幼幼" tvg-logo="" group-title="",東森幼幼
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_25_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="緯來綜合" tvg-name="緯來綜合" tvg-logo="" group-title="",緯來綜合
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_26_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="八大第一" tvg-name="八大第一" tvg-logo="" group-title="",八大第一
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_27_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="八大綜合" tvg-name="八大綜合" tvg-logo="" group-title="",八大綜合
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_28_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="三立台灣" tvg-name="三立台灣" tvg-logo="" group-title="",三立台灣
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_29_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="三立都會" tvg-name="三立都會" tvg-logo="" group-title="",三立都會
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_30_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="壹綜合" tvg-name="壹綜合" tvg-logo="" group-title="",壹綜合
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_31_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="東森綜合" tvg-name="東森綜合" tvg-logo="" group-title="",東森綜合
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_32_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="東森超視" tvg-name="東森超視" tvg-logo="" group-title="",東森超視
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_33_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="東森購物2" tvg-name="東森購物2" tvg-logo="" group-title="",東森購物2
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_34_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="momo購物2" tvg-name="momo購物2" tvg-logo="" group-title="",momo購物2
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_35_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="中天綜合" tvg-name="中天綜合" tvg-logo="" group-title="",中天綜合
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_36_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="東風" tvg-name="東風" tvg-logo="" group-title="",東風
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_37_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="MUCH TV" tvg-name="MUCH TV" tvg-logo="" group-title="",MUCH TV
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_38_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="中部廣告" tvg-name="中部廣告" tvg-logo="" group-title="",中部廣告
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_39_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="東森戲劇" tvg-name="東森戲劇" tvg-logo="" group-title="",東森戲劇
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_40_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="八大戲劇" tvg-name="八大戲劇" tvg-logo="" group-title="",八大戲劇
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_41_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="TVBS歡樂" tvg-name="TVBS歡樂" tvg-logo="" group-title="",TVBS歡樂
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_42_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="緯來戲劇" tvg-name="緯來戲劇" tvg-logo="" group-title="",緯來戲劇
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_43_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="高點綜合" tvg-name="高點綜合" tvg-logo="" group-title="",高點綜合
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_44_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="JET綜合" tvg-name="JET綜合" tvg-logo="" group-title="",JET綜合
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_45_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="東森購物3" tvg-name="東森購物3" tvg-logo="" group-title="",東森購物3
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_46_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="東森購物1" tvg-name="東森購物1" tvg-logo="" group-title="",東森購物1
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_47_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="momo購物1" tvg-name="momo購物1" tvg-logo="" group-title="",momo購物1
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_48_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="壹新聞" tvg-name="壹新聞" tvg-logo="" group-title="",壹新聞
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_49_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="年代新聞" tvg-name="年代新聞" tvg-logo="" group-title="",年代新聞
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_50_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="東森新聞" tvg-name="東森新聞" tvg-logo="" group-title="",東森新聞
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_51_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="" group-title="",華視新聞
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_52_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="民視新聞" tvg-name="民視新聞" tvg-logo="" group-title="",民視新聞
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_53_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="三立新聞" tvg-name="三立新聞" tvg-logo="" group-title="",三立新聞
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_54_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="" group-title="",TVBS新聞
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_55_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="" group-title="",TVBS
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_56_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="東森財經" tvg-name="東森財經" tvg-logo="" group-title="",東森財經
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_57_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="非凡新聞" tvg-name="非凡新聞" tvg-logo="" group-title="",非凡新聞
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_58_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="美好購物1" tvg-name="美好購物1" tvg-logo="" group-title="",美好購物1
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_59_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="東森購物5" tvg-name="東森購物5" tvg-logo="" group-title="",東森購物5
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_60_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="Catch Play電影" tvg-name="Catch Play電影" tvg-logo="" group-title="",Catch Play電影
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_61_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="東森電影" tvg-name="東森電影" tvg-logo="" group-title="",東森電影
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_62_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="緯來電影" tvg-name="緯來電影" tvg-logo="" group-title="",緯來電影
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_63_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="冠軍電視" tvg-name="冠軍電視" tvg-logo="" group-title="",冠軍電視
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_64_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="" group-title="",HBO
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_65_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="東森洋片" tvg-name="東森洋片" tvg-logo="" group-title="",東森洋片
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_66_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="中天娛樂" tvg-name="中天娛樂" tvg-logo="" group-title="",中天娛樂
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_67_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="好萊塢電影" tvg-name="好萊塢電影" tvg-logo="" group-title="",好萊塢電影
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_68_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="amc電影" tvg-name="amc電影" tvg-logo="" group-title="",amc電影
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_69_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="" group-title="",CINEMAX
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_71_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="緯來體育" tvg-name="緯來體育" tvg-logo="" group-title="",緯來體育
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_72_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="DAZN1" tvg-name="DAZN1" tvg-logo="" group-title="",DAZN1
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_73_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="DAZN2" tvg-name="DAZN2" tvg-logo="" group-title="",DAZN2
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_74_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="momoTV" tvg-name="momoTV" tvg-logo="" group-title="",momoTV
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_75_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="博斯運動1" tvg-name="博斯運動1" tvg-logo="" group-title="",博斯運動1
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_76_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="海豚綜合" tvg-name="海豚綜合" tvg-logo="" group-title="",海豚綜合
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_77_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="中部廣告2" tvg-name="中部廣告2" tvg-logo="" group-title="",中部廣告2
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_78_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="緯來日本" tvg-name="緯來日本" tvg-logo="" group-title="",緯來日本
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_79_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="國興衛視" tvg-name="國興衛視" tvg-logo="" group-title="",國興衛視
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_80_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="信吉" tvg-name="信吉" tvg-logo="" group-title="",信吉
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_82_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="以婷小碗" tvg-name="以婷小碗" tvg-logo="" group-title="",以婷小碗
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_83_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="" group-title="",AXN
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_84_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="寰宇新聞" tvg-name="寰宇新聞" tvg-logo="" group-title="",寰宇新聞
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_85_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="信大" tvg-name="信大" tvg-logo="" group-title="",信大
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_86_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="緯來育樂" tvg-name="緯來育樂" tvg-logo="" group-title="",緯來育樂
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_87_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="三立iNEWS" tvg-name="三立iNEWS" tvg-logo="" group-title="",三立iNEWS
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_88_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="黑頻" tvg-name="黑頻" tvg-logo="" group-title="",黑頻
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_89_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="靖天購物" tvg-name="靖天購物" tvg-logo="" group-title="",靖天購物
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_90_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="台灣綜合" tvg-name="台灣綜合" tvg-logo="" group-title="",台灣綜合
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_91_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="龍祥時代" tvg-name="龍祥時代" tvg-logo="" group-title="",龍祥時代
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_92_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="全球財經" tvg-name="全球財經" tvg-logo="" group-title="",全球財經
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_93_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="誠心電視" tvg-name="誠心電視" tvg-logo="" group-title="",誠心電視
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_94_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="非凡商業" tvg-name="非凡商業" tvg-logo="" group-title="",非凡商業
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_95_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="台藝電視" tvg-name="台藝電視" tvg-logo="" group-title="",台藝電視
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_96_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="EF運通" tvg-name="EF運通" tvg-logo="" group-title="",EF運通
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_97_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="Z" tvg-name="Z" tvg-logo="" group-title="",Z
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_98_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="霹靂綜合" tvg-name="霹靂綜合" tvg-logo="" group-title="",霹靂綜合
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_99_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="" group-title="",MTV
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_100_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="BBC生活" tvg-name="BBC生活" tvg-logo="" group-title="",BBC生活
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_101_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="十方法界" tvg-name="十方法界" tvg-logo="" group-title="",十方法界
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_102_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="華藏電視" tvg-name="華藏電視" tvg-logo="" group-title="",華藏電視
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_103_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="" group-title="",ANIMAX
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_104_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="佛衛慈悲" tvg-name="佛衛慈悲" tvg-logo="" group-title="",佛衛慈悲
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_105_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="八大娛樂" tvg-name="八大娛樂" tvg-logo="" group-title="",八大娛樂
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_106_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="全大" tvg-name="全大" tvg-logo="" group-title="",全大
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_107_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="華藝台灣" tvg-name="華藝台灣" tvg-logo="" group-title="",華藝台灣
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_108_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="彰化生活" tvg-name="彰化生活" tvg-logo="" group-title="",彰化生活
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_109_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="天良" tvg-name="天良" tvg-logo="" group-title="",天良
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_110_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="番薯" tvg-name="番薯" tvg-logo="" group-title="",番薯
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_111_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="富立" tvg-name="富立" tvg-logo="" group-title="",富立
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_112_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="樂視" tvg-name="樂視" tvg-logo="" group-title="",樂視
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_113_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="三聖" tvg-name="三聖" tvg-logo="" group-title="",三聖
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_114_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="新天地民俗" tvg-name="新天地民俗" tvg-logo="" group-title="",新天地民俗
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_115_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="紅豆TV" tvg-name="紅豆TV" tvg-logo="" group-title="",紅豆TV
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_116_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="威達超舜生活" tvg-name="威達超舜生活" tvg-logo="" group-title="",威達超舜生活
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_117_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="天美麗電視" tvg-name="天美麗電視" tvg-logo="" group-title="",天美麗電視
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_118_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="大立" tvg-name="大立" tvg-logo="" group-title="",大立
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_119_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="大愛2" tvg-name="大愛2" tvg-logo="" group-title="",大愛2
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_121_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="" group-title="",國會頻道1
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_123_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="" group-title="",國會頻道2
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_124_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="幸福空間居家" tvg-name="幸福空間居家" tvg-logo="" group-title="",幸福空間居家
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_125_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="高點育樂" tvg-name="高點育樂" tvg-logo="" group-title="",高點育樂
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_126_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="華視教育體育文化" tvg-name="華視教育體育文化" tvg-logo="" group-title="",華視教育體育文化
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_127_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="希望" tvg-name="希望" tvg-logo="" group-title="",希望
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_131_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="寶島文化" tvg-name="寶島文化" tvg-logo="" group-title="",寶島文化
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_132_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="高雄都會" tvg-name="高雄都會" tvg-logo="" group-title="",高雄都會
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_133_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="NHK" tvg-name="NHK" tvg-logo="" group-title="",NHK
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_135_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="唯心電視" tvg-name="唯心電視" tvg-logo="" group-title="",唯心電視
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_140_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="Global Trekker" tvg-name="Global Trekker" tvg-logo="" group-title="",Global Trekker
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_145_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="ROCK動作" tvg-name="ROCK動作" tvg-logo="" group-title="",ROCK動作
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_146_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="TRACE運動" tvg-name="TRACE運動" tvg-logo="" group-title="",TRACE運動
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_147_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="美食星球" tvg-name="美食星球" tvg-logo="" group-title="",美食星球
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_148_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="寰宇財經" tvg-name="寰宇財經" tvg-logo="" group-title="",寰宇財經
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_149_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="Fun探索娛樂" tvg-name="Fun探索娛樂" tvg-logo="" group-title="",Fun探索娛樂
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_150_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="民視第一" tvg-name="民視第一" tvg-logo="" group-title="",民視第一
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_151_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="民視台灣" tvg-name="民視台灣" tvg-logo="" group-title="",民視台灣
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_152_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="鏡新聞" tvg-name="鏡新聞" tvg-logo="" group-title="",鏡新聞
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_153_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="TBC台中生活" tvg-name="TBC台中生活" tvg-logo="" group-title="",TBC台中生活
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_154_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="" group-title="",台視新聞
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_155_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="台視財經" tvg-name="台視財經" tvg-logo="" group-title="",台視財經
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_156_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="台視綜合" tvg-name="台視綜合" tvg-logo="" group-title="",台視綜合
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_157_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="小公視" tvg-name="小公視" tvg-logo="" group-title="",小公視
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_159_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="" group-title="",中視新聞
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_161_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="T+" tvg-name="T+" tvg-logo="" group-title="",T+
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_163_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="BBC新聞" tvg-name="BBC新聞" tvg-logo="" group-title="",BBC新聞
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_164_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="cna新聞" tvg-name="cna新聞" tvg-logo="" group-title="",cna新聞
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_165_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="A-One體育" tvg-name="A-One體育" tvg-logo="" group-title="",A-One體育
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_167_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="LOVE NATURE" tvg-name="LOVE NATURE" tvg-logo="" group-title="",LOVE NATURE
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_168_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="亞洲旅遊" tvg-name="亞洲旅遊" tvg-logo="" group-title="",亞洲旅遊
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_172_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="DISCOVERY asia" tvg-name="DISCOVERY asia" tvg-logo="" group-title="",DISCOVERY asia
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_200_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="DISCOVERY科學" tvg-name="DISCOVERY科學" tvg-logo="" group-title="",DISCOVERY科學
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_201_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="DISCOVERY動力" tvg-name="DISCOVERY動力" tvg-logo="" group-title="",DISCOVERY動力
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_202_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="GOOD2" tvg-name="GOOD2" tvg-logo="" group-title="",GOOD2
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_203_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="DW夢工廠" tvg-name="DW夢工廠" tvg-logo="" group-title="",DW夢工廠
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_207_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="BBC Cbeebies" tvg-name="BBC Cbeebies" tvg-logo="" group-title="",BBC Cbeebies
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_209_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="afn亞洲美食" tvg-name="afn亞洲美食" tvg-logo="" group-title="",afn亞洲美食
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_211_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="DISCOVERY 女性eve" tvg-name="DISCOVERY 女性eve" tvg-logo="" group-title="",DISCOVERY 女性eve
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_215_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="HBOHD" tvg-name="HBOHD" tvg-logo="" group-title="",HBOHD
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_220_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="HBO原創鉅獻" tvg-name="HBO原創鉅獻" tvg-logo="" group-title="",HBO原創鉅獻
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_221_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="HBO溫馨家庭" tvg-name="HBO溫馨家庭" tvg-logo="" group-title="",HBO溫馨家庭
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_222_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="HBO強檔鉅獻" tvg-name="HBO強檔鉅獻" tvg-logo="" group-title="",HBO強檔鉅獻
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_223_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="tvN" tvg-name="tvN" tvg-logo="" group-title="",tvN
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_225_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="博斯高球1" tvg-name="博斯高球1" tvg-logo="" group-title="",博斯高球1
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_242_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="博斯網球" tvg-name="博斯網球" tvg-logo="" group-title="",博斯網球
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_243_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="博斯運動2" tvg-name="博斯運動2" tvg-logo="" group-title="",博斯運動2
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_244_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="博斯高球2" tvg-name="博斯高球2" tvg-logo="" group-title="",博斯高球2
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_245_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="博斯無限" tvg-name="博斯無限" tvg-logo="" group-title="",博斯無限
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_246_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="博斯無限2" tvg-name="博斯無限2" tvg-logo="" group-title="",博斯無限2
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_247_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="博斯魅力" tvg-name="博斯魅力" tvg-logo="" group-title="",博斯魅力
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_248_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="401玩家" tvg-name="401玩家" tvg-logo="" group-title="",401玩家
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_401_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="402Happy" tvg-name="402Happy" tvg-logo="" group-title="",402Happy
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_402_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="403HOT" tvg-name="403HOT" tvg-logo="" group-title="",403HOT
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_403_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="404松視4" tvg-name="404松視4" tvg-logo="" group-title="",404松視4
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_404_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="405松視1" tvg-name="405松視1" tvg-logo="" group-title="",405松視1
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_405_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="406松視2" tvg-name="406松視2" tvg-logo="" group-title="",406松視2
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_406_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="407松視3" tvg-name="407松視3" tvg-logo="" group-title="",407松視3
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_407_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="408彩虹" tvg-name="408彩虹" tvg-logo="" group-title="",408彩虹
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_408_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="410樂活" tvg-name="410樂活" tvg-logo="" group-title="",410樂活
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_410_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="411潘朵拉完美" tvg-name="411潘朵拉完美" tvg-logo="" group-title="",411潘朵拉完美
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_411_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="412潘朵拉粉紅" tvg-name="412潘朵拉粉紅" tvg-logo="" group-title="",412潘朵拉粉紅
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_412_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="413驚豔" tvg-name="413驚豔" tvg-logo="" group-title="",413驚豔
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_413_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-id="414香蕉" tvg-name="414香蕉" tvg-logo="" group-title="",414香蕉
+http://58.99.33.2:1935/liveedge2/tIOfaDUV_414_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
