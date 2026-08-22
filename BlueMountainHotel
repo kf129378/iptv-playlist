@@ -89,6 +89,8 @@ https://portfolio-terrorist-sacred-mobiles.trycloudflare.com/stream/live1010.m3u
 https://portfolio-terrorist-sacred-mobiles.trycloudflare.com/stream/live1026.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
 #EXTINF:-1 group-title="酒店源",Taiwan Plus
 https://portfolio-terrorist-sacred-mobiles.trycloudflare.com/stream/live1238.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
+#EXTINF:-1 group-title="酒店源",壹新聞HD
+https://portfolio-terrorist-sacred-mobiles.trycloudflare.com/stream/live1242.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
 #EXTINF:-1 group-title="酒店源",年代新聞HD
 https://portfolio-terrorist-sacred-mobiles.trycloudflare.com/stream/live1192.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
 #EXTINF:-1 group-title="酒店源",東森新聞HD
@@ -113,8 +115,6 @@ https://portfolio-terrorist-sacred-mobiles.trycloudflare.com/stream/live1017.m3u
 https://portfolio-terrorist-sacred-mobiles.trycloudflare.com/alt-stream/live1108.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
 #EXTINF:-1 group-title="酒店源",寰宇新聞
 https://portfolio-terrorist-sacred-mobiles.trycloudflare.com/stream/live1222.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",壹新聞HD
-https://portfolio-terrorist-sacred-mobiles.trycloudflare.com/stream/live1242.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
 #EXTINF:-1 group-title="酒店源",華視新聞資訊HD
 https://portfolio-terrorist-sacred-mobiles.trycloudflare.com/alt-stream/live1120.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
 #EXTINF:-1 group-title="酒店源",台視新聞HD
