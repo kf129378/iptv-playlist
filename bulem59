@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 group-title="酒店源",台視HD
-http://36.227.154.104:7056/H59.php?custom19
-#EXTINF:-1 group-title="酒店源",台視HD
 http://36.227.154.104:7056/H59.php?1047
 #EXTINF:-1 group-title="酒店源",中視HD
 http://36.227.154.104:7056/H59.php?1048
@@ -31,8 +29,6 @@ http://36.227.154.104:7056/H59.php?1060
 http://36.227.154.104:7056/H59.php?1007
 #EXTINF:-1 group-title="酒店源",東森幼幼HD
 http://36.227.154.104:7056/H59.php?1008
-#EXTINF:-1 group-title="酒店源",公視兒少台
-http://36.227.154.104:7056/H59.php?custom29
 #EXTINF:-1 group-title="酒店源",緯來綜合HD
 http://36.227.154.104:7056/H59.php?1044
 #EXTINF:-1 group-title="酒店源",八大第一HD
@@ -67,24 +63,6 @@ http://36.227.154.104:7056/H59.php?1018
 http://36.227.154.104:7056/H59.php?1186
 #EXTINF:-1 group-title="酒店源",中視菁采HD
 http://36.227.154.104:7056/H59.php?1235
-#EXTINF:-1 group-title="酒店源",台視綜合HD
-http://36.227.154.104:7056/H59.php?1109
-#EXTINF:-1 group-title="酒店源",民視第一台
-http://36.227.154.104:7056/H59.php?1103
-#EXTINF:-1 group-title="酒店源",民視台灣
-http://36.227.154.104:7056/H59.php?1105
-#EXTINF:-1 group-title="酒店源",公視台語
-http://36.227.154.104:7056/H59.php?1111
-#EXTINF:-1 group-title="酒店源",客家電視
-http://36.227.154.104:7056/H59.php?1121
-#EXTINF:-1 group-title="酒店源",原住民族電視
-http://36.227.154.104:7056/H59.php?1122
-#EXTINF:-1 group-title="酒店源",華視教育體育文化台
-http://36.227.154.104:7056/H59.php?1119
-#EXTINF:-1 group-title="酒店源",國會頻道1
-http://36.227.154.104:7056/H59.php?1116
-#EXTINF:-1 group-title="酒店源",Taiwan Plus
-http://36.227.154.104:7056/H59.php?1238
 #EXTINF:-1 group-title="酒店源",JET綜合HD
 http://36.227.154.104:7056/H59.php?1009
 #EXTINF:-1 group-title="酒店源",國興衛視HD
@@ -113,16 +91,8 @@ http://36.227.154.104:7056/H59.php?1017
 http://36.227.154.104:7056/H59.php?1013
 #EXTINF:-1 group-title="酒店源",非凡商業HD
 http://36.227.154.104:7056/H59.php?1012
-#EXTINF:-1 group-title="酒店源",台視財經HD
-http://36.227.154.104:7056/H59.php?1108
 #EXTINF:-1 group-title="酒店源",寰宇新聞HD
 http://36.227.154.104:7056/H59.php?1222
-#EXTINF:-1 group-title="酒店源",華視新聞資訊HD
-http://36.227.154.104:7056/H59.php?1120
-#EXTINF:-1 group-title="酒店源",中視新聞HD
-http://36.227.154.104:7056/H59.php?1115
-#EXTINF:-1 group-title="酒店源",台視新聞HD
-http://36.227.154.104:7056/H59.php?1107
 #EXTINF:-1 group-title="酒店源",鏡電視新聞HD
 http://36.227.154.104:7056/H59.php?1031
 #EXTINF:-1 group-title="酒店源",NHK PREMIUM
@@ -141,16 +111,12 @@ http://36.227.154.104:7056/H59.php?1029
 http://36.227.154.104:7056/H59.php?1054
 #EXTINF:-1 group-title="酒店源",CINEMAX HD
 http://36.227.154.104:7056/H59.php?1030
-#EXTINF:-1 group-title="酒店源",AMC 電影台HD
+#EXTINF:-1 group-title="酒店源",AMC電影台HD
 http://36.227.154.104:7056/H59.php?1032
-#EXTINF:-1 group-title="酒店源",寵物頻道HD
-http://36.227.154.104:7056/H59.php?1040
 #EXTINF:-1 group-title="酒店源",緯來育樂HD
 http://36.227.154.104:7056/H59.php?1045
 #EXTINF:-1 group-title="酒店源",緯來體育HD
 http://36.227.154.104:7056/H59.php?1011
-#EXTINF:-1 group-title="酒店源",博斯高球一台HD
-http://36.227.154.104:7056/H59.php?1117
 #EXTINF:-1 group-title="酒店源",博斯運動二台HD
 http://36.227.154.104:7056/H59.php?1225
 #EXTINF:-1 group-title="酒店源",momo綜合HD
@@ -161,12 +127,6 @@ http://36.227.154.104:7056/H59.php?1069
 http://36.227.154.104:7056/H59.php?1072
 #EXTINF:-1 group-title="酒店源",Trace Sport Stars
 http://36.227.154.104:7056/H59.php?1003
-#EXTINF:-1 group-title="酒店源",廈門衛視
-http://36.227.154.104:7056/H59.php?1033
-#EXTINF:-1 group-title="酒店源",CCTV4-央視
-http://36.227.154.104:7056/H59.php?1034
-#EXTINF:-1 group-title="酒店源",海峽衛視
-http://36.227.154.104:7056/H59.php?1035
 #EXTINF:-1 group-title="酒店源",浙江衛視
 http://36.227.154.104:7056/H59.php?1036
 #EXTINF:-1 group-title="酒店源",東方衛視
