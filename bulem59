@@ -1,5 +1,193 @@
 #EXTM3U
+#EXTINF:-1 group-title="酒店源",台視HD
+http://36.227.154.104:7056/H59.php?custom19
+#EXTINF:-1 group-title="酒店源",台視HD
+http://36.227.154.104:7056/H59.php?1047
+#EXTINF:-1 group-title="酒店源",中視HD
+http://36.227.154.104:7056/H59.php?1048
+#EXTINF:-1 group-title="酒店源",華視HD
+http://36.227.154.104:7056/H59.php?1049
+#EXTINF:-1 group-title="酒店源",民視HD
+http://36.227.154.104:7056/H59.php?1050
+#EXTINF:-1 group-title="酒店源",公視HD
+http://36.227.154.104:7056/H59.php?1201
+#EXTINF:-1 group-title="酒店源",人間衛視HD
+http://36.227.154.104:7056/H59.php?1198
+#EXTINF:-1 group-title="酒店源",大愛HD
+http://36.227.154.104:7056/H59.php?1216
+#EXTINF:-1 group-title="酒店源",好消息HD
+http://36.227.154.104:7056/H59.php?1231
+#EXTINF:-1 group-title="酒店源",DISCOVERY HD
+http://36.227.154.104:7056/H59.php?1002
+#EXTINF:-1 group-title="酒店源",旅遊生活HD
+http://36.227.154.104:7056/H59.php?1005
 #EXTINF:-1 group-title="酒店源",動物星球HD
 http://36.227.154.104:7056/H59.php?1004
-#EXTINF:-1 group-title="酒店源",ANIMAX卡通動畫HD
+#EXTINF:-1 group-title="酒店源",亞洲旅遊HD
+http://36.227.154.104:7056/H59.php?1219
+#EXTINF:-1 group-title="酒店源",ANIMAX動畫HD
 http://36.227.154.104:7056/H59.php?1060
+#EXTINF:-1 group-title="酒店源",momo親子台HD
+http://36.227.154.104:7056/H59.php?1007
+#EXTINF:-1 group-title="酒店源",東森幼幼HD
+http://36.227.154.104:7056/H59.php?1008
+#EXTINF:-1 group-title="酒店源",公視兒少台
+http://36.227.154.104:7056/H59.php?custom29
+#EXTINF:-1 group-title="酒店源",緯來綜合HD
+http://36.227.154.104:7056/H59.php?1044
+#EXTINF:-1 group-title="酒店源",八大第一HD
+http://36.227.154.104:7056/H59.php?1043
+#EXTINF:-1 group-title="酒店源",八大綜合HD
+http://36.227.154.104:7056/H59.php?1019
+#EXTINF:-1 group-title="酒店源",三立台灣HD
+http://36.227.154.104:7056/H59.php?1021
+#EXTINF:-1 group-title="酒店源",三立都會HD
+http://36.227.154.104:7056/H59.php?1020
+#EXTINF:-1 group-title="酒店源",韓國娛樂台
+http://36.227.154.104:7056/H59.php?1024
+#EXTINF:-1 group-title="酒店源",東森綜合HD
+http://36.227.154.104:7056/H59.php?1041
+#EXTINF:-1 group-title="酒店源",超視HD
+http://36.227.154.104:7056/H59.php?1180
+#EXTINF:-1 group-title="酒店源",中天綜合HD
+http://36.227.154.104:7056/H59.php?1022
+#EXTINF:-1 group-title="酒店源",中天娛樂HD
+http://36.227.154.104:7056/H59.php?1023
+#EXTINF:-1 group-title="酒店源",東風衛視HD
+http://36.227.154.104:7056/H59.php?1195
+#EXTINF:-1 group-title="酒店源",年代MUCH HD
+http://36.227.154.104:7056/H59.php?1189
+#EXTINF:-1 group-title="酒店源",東森戲劇HD
+http://36.227.154.104:7056/H59.php?1042
+#EXTINF:-1 group-title="酒店源",八大戲劇HD
+http://36.227.154.104:7056/H59.php?1057
+#EXTINF:-1 group-title="酒店源",TVBS歡樂HD
+http://36.227.154.104:7056/H59.php?1018
+#EXTINF:-1 group-title="酒店源",緯來戲劇HD
+http://36.227.154.104:7056/H59.php?1186
+#EXTINF:-1 group-title="酒店源",中視菁采HD
+http://36.227.154.104:7056/H59.php?1235
+#EXTINF:-1 group-title="酒店源",台視綜合HD
+http://36.227.154.104:7056/H59.php?1109
+#EXTINF:-1 group-title="酒店源",民視第一台
+http://36.227.154.104:7056/H59.php?1103
+#EXTINF:-1 group-title="酒店源",民視台灣
+http://36.227.154.104:7056/H59.php?1105
+#EXTINF:-1 group-title="酒店源",公視台語
+http://36.227.154.104:7056/H59.php?1111
+#EXTINF:-1 group-title="酒店源",客家電視
+http://36.227.154.104:7056/H59.php?1121
+#EXTINF:-1 group-title="酒店源",原住民族電視
+http://36.227.154.104:7056/H59.php?1122
+#EXTINF:-1 group-title="酒店源",華視教育體育文化台
+http://36.227.154.104:7056/H59.php?1119
+#EXTINF:-1 group-title="酒店源",國會頻道1
+http://36.227.154.104:7056/H59.php?1116
+#EXTINF:-1 group-title="酒店源",Taiwan Plus
+http://36.227.154.104:7056/H59.php?1238
+#EXTINF:-1 group-title="酒店源",JET綜合HD
+http://36.227.154.104:7056/H59.php?1009
+#EXTINF:-1 group-title="酒店源",國興衛視HD
+http://36.227.154.104:7056/H59.php?1010
+#EXTINF:-1 group-title="酒店源",緯來日本HD
+http://36.227.154.104:7056/H59.php?1026
+#EXTINF:-1 group-title="酒店源",壹新聞HD
+http://36.227.154.104:7056/H59.php?1242
+#EXTINF:-1 group-title="酒店源",年代新聞HD
+http://36.227.154.104:7056/H59.php?1192
+#EXTINF:-1 group-title="酒店源",東森新聞HD
+http://36.227.154.104:7056/H59.php?1014
+#EXTINF:-1 group-title="酒店源",中天新聞
+http://36.227.154.104:7056/H59.php?1015
+#EXTINF:-1 group-title="酒店源",民視新聞HD
+http://36.227.154.104:7056/H59.php?1204
+#EXTINF:-1 group-title="酒店源",三立新聞HD
+http://36.227.154.104:7056/H59.php?1016
+#EXTINF:-1 group-title="酒店源",TVBS新聞HD
+http://36.227.154.104:7056/H59.php?1051
+#EXTINF:-1 group-title="酒店源",TVBS HD
+http://36.227.154.104:7056/H59.php?1251
+#EXTINF:-1 group-title="酒店源",東森財經HD
+http://36.227.154.104:7056/H59.php?1017
+#EXTINF:-1 group-title="酒店源",非凡新聞HD
+http://36.227.154.104:7056/H59.php?1013
+#EXTINF:-1 group-title="酒店源",非凡商業HD
+http://36.227.154.104:7056/H59.php?1012
+#EXTINF:-1 group-title="酒店源",台視財經HD
+http://36.227.154.104:7056/H59.php?1108
+#EXTINF:-1 group-title="酒店源",寰宇新聞HD
+http://36.227.154.104:7056/H59.php?1222
+#EXTINF:-1 group-title="酒店源",華視新聞資訊HD
+http://36.227.154.104:7056/H59.php?1120
+#EXTINF:-1 group-title="酒店源",中視新聞HD
+http://36.227.154.104:7056/H59.php?1115
+#EXTINF:-1 group-title="酒店源",台視新聞HD
+http://36.227.154.104:7056/H59.php?1107
+#EXTINF:-1 group-title="酒店源",鏡電視新聞HD
+http://36.227.154.104:7056/H59.php?1031
+#EXTINF:-1 group-title="酒店源",NHK PREMIUM
+http://36.227.154.104:7056/H59.php?1027
+#EXTINF:-1 group-title="酒店源",NHK WORLD
+http://36.227.154.104:7056/H59.php?1245
+#EXTINF:-1 group-title="酒店源",Bloomberg News
+http://36.227.154.104:7056/H59.php?1066
+#EXTINF:-1 group-title="酒店源",好萊塢電影HD
+http://36.227.154.104:7056/H59.php?1025
+#EXTINF:-1 group-title="酒店源",緯來電影HD
+http://36.227.154.104:7056/H59.php?1183
+#EXTINF:-1 group-title="酒店源",HBO HD
+http://36.227.154.104:7056/H59.php?1029
+#EXTINF:-1 group-title="酒店源",AXN HD
+http://36.227.154.104:7056/H59.php?1054
+#EXTINF:-1 group-title="酒店源",CINEMAX HD
+http://36.227.154.104:7056/H59.php?1030
+#EXTINF:-1 group-title="酒店源",AMC 電影台HD
+http://36.227.154.104:7056/H59.php?1032
+#EXTINF:-1 group-title="酒店源",寵物頻道HD
+http://36.227.154.104:7056/H59.php?1040
+#EXTINF:-1 group-title="酒店源",緯來育樂HD
+http://36.227.154.104:7056/H59.php?1045
+#EXTINF:-1 group-title="酒店源",緯來體育HD
+http://36.227.154.104:7056/H59.php?1011
+#EXTINF:-1 group-title="酒店源",博斯高球一台HD
+http://36.227.154.104:7056/H59.php?1117
+#EXTINF:-1 group-title="酒店源",博斯運動二台HD
+http://36.227.154.104:7056/H59.php?1225
+#EXTINF:-1 group-title="酒店源",momo綜合HD
+http://36.227.154.104:7056/H59.php?1248
+#EXTINF:-1 group-title="酒店源",DAZN 1
+http://36.227.154.104:7056/H59.php?1069
+#EXTINF:-1 group-title="酒店源",DAZN 2
+http://36.227.154.104:7056/H59.php?1072
+#EXTINF:-1 group-title="酒店源",Trace Sport Stars
+http://36.227.154.104:7056/H59.php?1003
+#EXTINF:-1 group-title="酒店源",廈門衛視
+http://36.227.154.104:7056/H59.php?1033
+#EXTINF:-1 group-title="酒店源",CCTV4-央視
+http://36.227.154.104:7056/H59.php?1034
+#EXTINF:-1 group-title="酒店源",海峽衛視
+http://36.227.154.104:7056/H59.php?1035
+#EXTINF:-1 group-title="酒店源",浙江衛視
+http://36.227.154.104:7056/H59.php?1036
+#EXTINF:-1 group-title="酒店源",東方衛視
+http://36.227.154.104:7056/H59.php?1037
+#EXTINF:-1 group-title="酒店源",湖南衛視
+http://36.227.154.104:7056/H59.php?1038
+#EXTINF:-1 group-title="酒店源",鳯凰衛視資訊
+http://36.227.154.104:7056/H59.php?1210
+#EXTINF:-1 group-title="酒店源",鳯凰衛視中文
+http://36.227.154.104:7056/H59.php?1213
+#EXTINF:-1 group-title="酒店源",其他直播455
+https://lihi.cc/R9JJ4
+#EXTINF:-1 group-title="酒店源",其他直播456
+https://lihi.cc/jDIHU
+#EXTINF:-1 group-title="酒店源",其他直播457
+https://lihi.cc/mg1P5
+#EXTINF:-1 group-title="酒店源",其他直播458
+https://lihi.cc/Mqt7J
+#EXTINF:-1 group-title="酒店源",其他直播459
+https://lihi.cc/x1ovR
+#EXTINF:-1 group-title="酒店源",其他直播460
+https://lihi.cc/bDFgZ
+#EXTINF:-1 group-title="酒店源",其他直播461
+https://lihi.cc/2UlPc
