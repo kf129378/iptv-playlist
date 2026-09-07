@@ -1,142 +1,118 @@
 #EXTM3U
-#EXTINF:-1 group-title="酒店源",台視HD
-http://36.227.154.104:7056/H59.php?1047
-#EXTINF:-1 group-title="酒店源",中視HD
-http://36.227.154.104:7056/H59.php?1048
-#EXTINF:-1 group-title="酒店源",華視HD
-http://36.227.154.104:7056/H59.php?1049
-#EXTINF:-1 group-title="酒店源",民視HD
-http://36.227.154.104:7056/H59.php?1050
-#EXTINF:-1 group-title="酒店源",公視HD
-http://36.227.154.104:7056/H59.php?1201
-#EXTINF:-1 group-title="酒店源",人間衛視HD
-http://36.227.154.104:7056/H59.php?1198
-#EXTINF:-1 group-title="酒店源",大愛HD
-http://36.227.154.104:7056/H59.php?1216
-#EXTINF:-1 group-title="酒店源",好消息HD
-http://36.227.154.104:7056/H59.php?1231
-#EXTINF:-1 group-title="酒店源",DISCOVERY HD
-http://36.227.154.104:7056/H59.php?1002
-#EXTINF:-1 group-title="酒店源",旅遊生活HD
-http://36.227.154.104:7056/H59.php?1005
-#EXTINF:-1 group-title="酒店源",動物星球HD
-http://36.227.154.104:7056/H59.php?1004
-#EXTINF:-1 group-title="酒店源",亞洲旅遊HD
-http://36.227.154.104:7056/H59.php?1219
-#EXTINF:-1 group-title="酒店源",ANIMAX動畫HD
-http://36.227.154.104:7056/H59.php?1060
-#EXTINF:-1 group-title="酒店源",momo親子台HD
-http://36.227.154.104:7056/H59.php?1007
-#EXTINF:-1 group-title="酒店源",東森幼幼HD
-http://36.227.154.104:7056/H59.php?1008
-#EXTINF:-1 group-title="酒店源",緯來綜合HD
-http://36.227.154.104:7056/H59.php?1044
-#EXTINF:-1 group-title="酒店源",八大第一HD
-http://36.227.154.104:7056/H59.php?1043
-#EXTINF:-1 group-title="酒店源",八大綜合HD
-http://36.227.154.104:7056/H59.php?1019
-#EXTINF:-1 group-title="酒店源",三立台灣HD
-http://36.227.154.104:7056/H59.php?1021
-#EXTINF:-1 group-title="酒店源",三立都會HD
-http://36.227.154.104:7056/H59.php?1020
-#EXTINF:-1 group-title="酒店源",韓國娛樂台
-http://36.227.154.104:7056/H59.php?1024
-#EXTINF:-1 group-title="酒店源",東森綜合HD
-http://36.227.154.104:7056/H59.php?1041
-#EXTINF:-1 group-title="酒店源",超視HD
-http://36.227.154.104:7056/H59.php?1180
-#EXTINF:-1 group-title="酒店源",中天綜合HD
-http://36.227.154.104:7056/H59.php?1022
-#EXTINF:-1 group-title="酒店源",中天娛樂HD
-http://36.227.154.104:7056/H59.php?1023
-#EXTINF:-1 group-title="酒店源",東風衛視HD
-http://36.227.154.104:7056/H59.php?1195
-#EXTINF:-1 group-title="酒店源",年代MUCH HD
-http://36.227.154.104:7056/H59.php?1189
-#EXTINF:-1 group-title="酒店源",東森戲劇HD
-http://36.227.154.104:7056/H59.php?1042
-#EXTINF:-1 group-title="酒店源",八大戲劇HD
-http://36.227.154.104:7056/H59.php?1057
-#EXTINF:-1 group-title="酒店源",TVBS歡樂HD
-http://36.227.154.104:7056/H59.php?1018
-#EXTINF:-1 group-title="酒店源",緯來戲劇HD
-http://36.227.154.104:7056/H59.php?1186
-#EXTINF:-1 group-title="酒店源",中視菁采HD
-http://36.227.154.104:7056/H59.php?1235
-#EXTINF:-1 group-title="酒店源",JET綜合HD
-http://36.227.154.104:7056/H59.php?1009
-#EXTINF:-1 group-title="酒店源",國興衛視HD
-http://36.227.154.104:7056/H59.php?1010
-#EXTINF:-1 group-title="酒店源",緯來日本HD
-http://36.227.154.104:7056/H59.php?1026
-#EXTINF:-1 group-title="酒店源",壹新聞HD
-http://36.227.154.104:7056/H59.php?1242
-#EXTINF:-1 group-title="酒店源",年代新聞HD
-http://36.227.154.104:7056/H59.php?1192
-#EXTINF:-1 group-title="酒店源",東森新聞HD
-http://36.227.154.104:7056/H59.php?1014
-#EXTINF:-1 group-title="酒店源",中天新聞
-http://36.227.154.104:7056/H59.php?1015
-#EXTINF:-1 group-title="酒店源",民視新聞HD
-http://36.227.154.104:7056/H59.php?1204
-#EXTINF:-1 group-title="酒店源",三立新聞HD
-http://36.227.154.104:7056/H59.php?1016
-#EXTINF:-1 group-title="酒店源",TVBS新聞HD
-http://36.227.154.104:7056/H59.php?1051
-#EXTINF:-1 group-title="酒店源",TVBS HD
-http://36.227.154.104:7056/H59.php?1251
-#EXTINF:-1 group-title="酒店源",東森財經HD
-http://36.227.154.104:7056/H59.php?1017
-#EXTINF:-1 group-title="酒店源",非凡新聞HD
-http://36.227.154.104:7056/H59.php?1013
-#EXTINF:-1 group-title="酒店源",非凡商業HD
-http://36.227.154.104:7056/H59.php?1012
-#EXTINF:-1 group-title="酒店源",寰宇新聞HD
-http://36.227.154.104:7056/H59.php?1222
-#EXTINF:-1 group-title="酒店源",鏡電視新聞HD
-http://36.227.154.104:7056/H59.php?1031
-#EXTINF:-1 group-title="酒店源",NHK PREMIUM
-http://36.227.154.104:7056/H59.php?1027
-#EXTINF:-1 group-title="酒店源",NHK WORLD
-http://36.227.154.104:7056/H59.php?1245
-#EXTINF:-1 group-title="酒店源",Bloomberg News
-http://36.227.154.104:7056/H59.php?1066
-#EXTINF:-1 group-title="酒店源",好萊塢電影HD
-http://36.227.154.104:7056/H59.php?1025
-#EXTINF:-1 group-title="酒店源",緯來電影HD
-http://36.227.154.104:7056/H59.php?1183
-#EXTINF:-1 group-title="酒店源",HBO HD
-http://36.227.154.104:7056/H59.php?1029
-#EXTINF:-1 group-title="酒店源",AXN HD
-http://36.227.154.104:7056/H59.php?1054
-#EXTINF:-1 group-title="酒店源",CINEMAX HD
-http://36.227.154.104:7056/H59.php?1030
-#EXTINF:-1 group-title="酒店源",AMC電影台HD
-http://36.227.154.104:7056/H59.php?1032
-#EXTINF:-1 group-title="酒店源",緯來育樂HD
-http://36.227.154.104:7056/H59.php?1045
-#EXTINF:-1 group-title="酒店源",緯來體育HD
-http://36.227.154.104:7056/H59.php?1011
-#EXTINF:-1 group-title="酒店源",博斯運動二台HD
-http://36.227.154.104:7056/H59.php?1225
-#EXTINF:-1 group-title="酒店源",momo綜合HD
-http://36.227.154.104:7056/H59.php?1248
-#EXTINF:-1 group-title="酒店源",DAZN 1
-http://36.227.154.104:7056/H59.php?1069
-#EXTINF:-1 group-title="酒店源",DAZN 2
-http://36.227.154.104:7056/H59.php?1072
-#EXTINF:-1 group-title="酒店源",Trace Sport Stars
-http://36.227.154.104:7056/H59.php?1003
-#EXTINF:-1 group-title="酒店源",浙江衛視
-http://36.227.154.104:7056/H59.php?1036
-#EXTINF:-1 group-title="酒店源",東方衛視
-http://36.227.154.104:7056/H59.php?1037
-#EXTINF:-1 group-title="酒店源",湖南衛視
-http://36.227.154.104:7056/H59.php?1038
-#EXTINF:-1 group-title="酒店源",鳯凰衛視資訊
-http://36.227.154.104:7056/H59.php?1210
-#EXTINF:-1 group-title="酒店源",鳯凰衛視中文
-http://36.227.154.104:7056/H59.php?1213
+#EXTINF:-1 group-title="酒店源",台視HD1047
+http://176868.cloud/af796f2617b4addc4c1e4900458d15bd/1f57f5ce5cc25280b5ae2291bf2b1d20/49be36df30cc6dbea9c263d56b3f9810/index.m3u8
+#EXTINF:-1 group-title="酒店源",中視HD1048
+http://176868.cloud/e0d87098892af4578cdb84c66dcd2bbb/1f57f5ce5cc25280b5ae2291bf2b1d20/250cfd5a74d722107d29dc940f192bfd/index.m3u8
+#EXTINF:-1 group-title="酒店源",華視HD1049
+http://176868.cloud/e0a3353ccb8e25ff3cd78db8bb7d4775/1f57f5ce5cc25280b5ae2291bf2b1d20/849eac604024e96a0d4205850699e149/index.m3u8
+#EXTINF:-1 group-title="酒店源",民視HD1050
+http://176868.cloud/41641d83a39ff6539a32dacc2f63a42b/1f57f5ce5cc25280b5ae2291bf2b1d20/cf6a8342ac2e0053de2f28967d0aa91b/index.m3u8
+#EXTINF:-1 group-title="酒店源",公視HD1201
+http://176868.cloud/42d0926274d6a5a30d3c37a35ba13a0d/1f57f5ce5cc25280b5ae2291bf2b1d20/40619cae9d9bdccbbd2ecdcbb3dc1d31/index.m3u8
+#EXTINF:-1 group-title="酒店源",人間衛視HD1198
+http://176868.cloud/3a975a3084a38e92cc5fc07956061f2e/1f57f5ce5cc25280b5ae2291bf2b1d20/d03e653125270617dffb5d5b81efd9ef/index.m3u8
+#EXTINF:-1 group-title="酒店源",大愛HD1216
+http://176868.cloud/5e67e4904b8b8a46ea78580ddf4c556a/1f57f5ce5cc25280b5ae2291bf2b1d20/3c0cbd0dbbf93d379ae963a50e174c14/index.m3u8
+#EXTINF:-1 group-title="酒店源",好消息HD1231
+http://176868.cloud/74f6c32fbf639ba6719c38948f8856ec/1f57f5ce5cc25280b5ae2291bf2b1d20/ead472aba69794225b78b6b37ef48ef9/index.m3u8
+#EXTINF:-1 group-title="酒店源",DISCOVERY HD1002
+http://176868.cloud/9249837b872a046b6f8957c41950370f/1f57f5ce5cc25280b5ae2291bf2b1d20/06eb597ebc0f38b2ddb5d28d7f7bcf63/index.m3u8
+#EXTINF:-1 group-title="酒店源",旅遊生活HD1005
+http://176868.cloud/917adf101e21a14a2626e4972df37123/1f57f5ce5cc25280b5ae2291bf2b1d20/cf07797619a57f3f0e9cabf247a0296f/index.m3u8
+#EXTINF:-1 group-title="酒店源",動物星球HD1004
+http://176868.cloud/e5d7c3b5f1a1dec0d72c1c933f0cf45d/1f57f5ce5cc25280b5ae2291bf2b1d20/512ff73bfefe9191ec928391480291a4/index.m3u8
+#EXTINF:-1 group-title="酒店源",ANIMAX動畫HD1060
+http://176868.cloud/7836c79b5d17ed106087da1f89cc1e81/1f57f5ce5cc25280b5ae2291bf2b1d20/5a22d6d67add60b13914e4496355d8fa/index.m3u8
+#EXTINF:-1 group-title="酒店源",momo親子台HD1007
+http://176868.cloud/6ec54fb1c797d04602d213195568d1c7/1f57f5ce5cc25280b5ae2291bf2b1d20/d126c6d31cb0f70db947166576480c6c/index.m3u8
+#EXTINF:-1 group-title="酒店源",東森幼幼HD1008
+http://176868.cloud/5566545f3164dab5207554121ac2f0ce/1f57f5ce5cc25280b5ae2291bf2b1d20/6307f9cbcc53438e41e05bd76a7f9ae7/index.m3u8
+#EXTINF:-1 group-title="酒店源",公視兒少台custom29
+http://176868.cloud/d86eec1743e7161d8d5a184e4d91b604/1f57f5ce5cc25280b5ae2291bf2b1d20/ed893fa6dcf543b85dca626557b9ddaf/index.m3u8
+#EXTINF:-1 group-title="酒店源",緯來綜合HD1044
+http://176868.cloud/41e63e345bafcb2de0bfe985dfb19a36/1f57f5ce5cc25280b5ae2291bf2b1d20/cb7647bb8cdd03121c3731b4678622d6/index.m3u8
+#EXTINF:-1 group-title="酒店源",八大第一HD1043
+http://176868.cloud/30badb9c0c8c6ceced685e8c98d5d693/1f57f5ce5cc25280b5ae2291bf2b1d20/b6c4387a2d341c7f7e48f0c17c738dff/index.m3u8
+#EXTINF:-1 group-title="酒店源",八大綜合HD1019
+http://176868.cloud/58ee4b5a196fce60c41f6f441e39638d/1f57f5ce5cc25280b5ae2291bf2b1d20/84323795b3949c3c5607f85a7f4db8ba/index.m3u8
+#EXTINF:-1 group-title="酒店源",三立台灣HD1021
+http://176868.cloud/1016e0059b1fa6abf75791ea8f11f5bb/1f57f5ce5cc25280b5ae2291bf2b1d20/2dc69172f811c60dd849950e5f5c4e9d/index.m3u8
+#EXTINF:-1 group-title="酒店源",三立都會HD1020
+http://176868.cloud/09268a33758005681f9b70873025f3f7/1f57f5ce5cc25280b5ae2291bf2b1d20/a20dd926866a50b48162d7ad37d2749e/index.m3u8
+#EXTINF:-1 group-title="酒店源",東森綜合HD1041
+http://176868.cloud/4af134603d5250a4b5f25f824716545b/1f57f5ce5cc25280b5ae2291bf2b1d20/d89aff6c291e8d7fb2d65fc95af708a4/index.m3u8
+#EXTINF:-1 group-title="酒店源",超視HD1180
+http://176868.cloud/8240aaf7701533fdd87d7d1199a072bd/1f57f5ce5cc25280b5ae2291bf2b1d20/f9d1d19201601bc5dbc54a010f33213d/index.m3u8
+#EXTINF:-1 group-title="酒店源",中天綜合HD1022
+http://176868.cloud/7da1d042540b1d323581c8098aaf6135/1f57f5ce5cc25280b5ae2291bf2b1d20/39fc1a82cdb79e1d7b82280a461884ff/index.m3u8
+#EXTINF:-1 group-title="酒店源",中天娛樂HD1023
+http://176868.cloud/a6a044dabb5a400d2eae8b3c486f964b/1f57f5ce5cc25280b5ae2291bf2b1d20/717f26e3530e0a80f5ede85b88be200f/index.m3u8
+#EXTINF:-1 group-title="酒店源",東風衛視HD1195
+http://176868.cloud/052875f47fae13a7c24b2a25f80c0651/1f57f5ce5cc25280b5ae2291bf2b1d20/cfbcf213c5017a0f91f15bfc79309118/index.m3u8
+#EXTINF:-1 group-title="酒店源",年代MUCH HD1189
+http://176868.cloud/f5feac5bb1ae2b363a04537ee166ca38/1f57f5ce5cc25280b5ae2291bf2b1d20/d0f0ca524864a7c1d63be9d0d6e2c2d6/index.m3u8
+#EXTINF:-1 group-title="酒店源",東森戲劇HD1042
+http://176868.cloud/63fbfcc1a970d01bcc3b94972d7932c5/1f57f5ce5cc25280b5ae2291bf2b1d20/09bcb846db6b9c19b6d8b129d2d6cbce/index.m3u8
+#EXTINF:-1 group-title="酒店源",八大戲劇HD1057
+http://176868.cloud/9731759f040bbd13d0457ae322c705d0/1f57f5ce5cc25280b5ae2291bf2b1d20/5ff3e69a7d912232db799f794b768b04/index.m3u8
+#EXTINF:-1 group-title="酒店源",TVBS歡樂HD1018
+http://176868.cloud/f1fad7a84936fa80fb3ea2a3529df2fe/1f57f5ce5cc25280b5ae2291bf2b1d20/9fb236506505597fe5c3396cda9d8ba4/index.m3u8
+#EXTINF:-1 group-title="酒店源",緯來戲劇HD1186
+http://176868.cloud/9ed0dab6b2b411f0bcadfd280c14ae15/1f57f5ce5cc25280b5ae2291bf2b1d20/6846c400a872f48e9c247a2d0d1a42c4/index.m3u8
+#EXTINF:-1 group-title="酒店源",台視綜合HD1109
+http://176868.cloud/df355149aadd7035260a084503d181e0/1f57f5ce5cc25280b5ae2291bf2b1d20/5aac469720a857acea523d71bf1aa01c/index.m3u8
+#EXTINF:-1 group-title="酒店源",JET綜合HD1009
+http://176868.cloud/de0c22d48de854bef27073ee953927c2/1f57f5ce5cc25280b5ae2291bf2b1d20/a2b63a0ee014ccb5aac1b6ad8fdf056e/index.m3u8
+#EXTINF:-1 group-title="酒店源",國興衛視HD1010
+http://176868.cloud/bc686a1fa47303ca422b37d32f27100c/1f57f5ce5cc25280b5ae2291bf2b1d20/e226aa53797a478f291b82aac1c97dae/index.m3u8
+#EXTINF:-1 group-title="酒店源",緯來日本HD1026
+http://176868.cloud/1509d02c092d01f02008b4c7cfe8c1c0/1f57f5ce5cc25280b5ae2291bf2b1d20/48b658b97d243f47cc2fe6c33450a976/index.m3u8
+#EXTINF:-1 group-title="酒店源",壹新聞HD1242
+http://176868.cloud/61b6a4819fd634428d2c336dc7596ec9/1f57f5ce5cc25280b5ae2291bf2b1d20/5ff3d755fa41cf94345098cc3d74beb2/index.m3u8
+#EXTINF:-1 group-title="酒店源",年代新聞HD1192
+http://176868.cloud/6e04d0e01b19ab3095667644cf637ac2/1f57f5ce5cc25280b5ae2291bf2b1d20/2e8e3b7abecf7d951b11b2d62455bff6/index.m3u8
+#EXTINF:-1 group-title="酒店源",東森新聞HD1014
+http://176868.cloud/a4f46575b2aed6dbc1eff66e9715bd1f/1f57f5ce5cc25280b5ae2291bf2b1d20/2add6ee2f1f2ee9b2d7eba03f229f358/index.m3u8
+#EXTINF:-1 group-title="酒店源",中天新聞1015
+http://176868.cloud/5942f20dd2477ebde1e865244283281b/1f57f5ce5cc25280b5ae2291bf2b1d20/076581ad7ec4d58cc289617ed840a903/index.m3u8
+#EXTINF:-1 group-title="酒店源",民視新聞HD1204
+http://176868.cloud/f5185965190ed99242c81fc80a5c03f4/1f57f5ce5cc25280b5ae2291bf2b1d20/9c94503ed5568a5c4d663741eee50e12/index.m3u8
+#EXTINF:-1 group-title="酒店源",三立新聞HD1016
+http://176868.cloud/0fa1cdc31c58658648034350ff083e99/1f57f5ce5cc25280b5ae2291bf2b1d20/dbabe72fa1598fb4ad47c9641d6185af/index.m3u8
+#EXTINF:-1 group-title="酒店源",TVBS新聞HD1051
+http://176868.cloud/6466c6ca9e86fcbdf612e8a54fa4ed41/1f57f5ce5cc25280b5ae2291bf2b1d20/94d4e44038476a124846f3958af66618/index.m3u8
+#EXTINF:-1 group-title="酒店源",TVBS HD1251
+http://176868.cloud/3dfece90d9fb0ff1e4116d6aed084eb5/1f57f5ce5cc25280b5ae2291bf2b1d20/afb83d0a986d4876214cc36cb5bd0d44/index.m3u8
+#EXTINF:-1 group-title="酒店源",東森財經HD1017
+http://176868.cloud/61f3cb9ed56a6c38f6ffbe03556524fe/1f57f5ce5cc25280b5ae2291bf2b1d20/2a9cd67c54c774d86e02971c76e7384a/index.m3u8
+#EXTINF:-1 group-title="酒店源",非凡新聞HD1013
+http://176868.cloud/47d69aca7dfaf4a7dc23bac19db42e94/1f57f5ce5cc25280b5ae2291bf2b1d20/e6a37e0425900d3045807814c078aeb7/index.m3u8
+#EXTINF:-1 group-title="酒店源",東森電影HD
+http://176868.cloud/c680363d0de11431ba0f3bd1a1b37f54/1f57f5ce5cc25280b5ae2291bf2b1d20/a26a360f40d33d18109dca6c681ed654/index.m3u8
+#EXTINF:-1 group-title="酒店源",好萊塢電影HD1025
+http://176868.cloud/48c9591c81415a37782a188b78b1ba5f/1f57f5ce5cc25280b5ae2291bf2b1d20/c370b276e90f285592fd2e45ba486a91/index.m3u8
+#EXTINF:-1 group-title="酒店源",緯來電影HD1183
+http://176868.cloud/167a370be83ae29fbd2b6cb050527248/1f57f5ce5cc25280b5ae2291bf2b1d20/5ba5919b597efd069a135c67a80adcff/index.m3u8
+#EXTINF:-1 group-title="酒店源",HBO HD1029
+http://176868.cloud/5fcc1fdabc18d9fb8b232051c032ca3b/1f57f5ce5cc25280b5ae2291bf2b1d20/f87757ebf0064210fda9a38029475948/index.m3u8
+#EXTINF:-1 group-title="酒店源",AXN HD1054
+http://176868.cloud/554b6aff53c7b151eca243cfe1cdfd6f/1f57f5ce5cc25280b5ae2291bf2b1d20/d6915541e0a79bd1b4dce881fa789983/index.m3u8
+#EXTINF:-1 group-title="酒店源",CINEMAX HD1030
+http://176868.cloud/91b90cba4bd3e6310cf5136f7b399ab6/1f57f5ce5cc25280b5ae2291bf2b1d20/ccd0ee8b8b06428452d161c3f274b73a/index.m3u8
+#EXTINF:-1 group-title="酒店源",緯來育樂HD1045
+http://176868.cloud/a5f57a78ee912b540a9c991e308ecd53/1f57f5ce5cc25280b5ae2291bf2b1d20/120d7da1a87da4af15e869ca82a46ecc/index.m3u8
+#EXTINF:-1 group-title="酒店源",緯來體育HD1011
+http://176868.cloud/a76e829663f3308299ccfac4ae96e069/1f57f5ce5cc25280b5ae2291bf2b1d20/f85988145306249e94e0ec763a857fcd/index.m3u8
+#EXTINF:-1 group-title="酒店源",momo綜合HD1248
+http://176868.cloud/dcd8347ea1c0bf8d5eb407e14a757796/1f57f5ce5cc25280b5ae2291bf2b1d20/d37a0000fc6349eae73e4268dbe519e2/index.m3u8
+#EXTINF:-1 group-title="酒店源",DAZN 11069
+http://176868.cloud/f90dc137fedfd72d4184cb95662bda7a/1f57f5ce5cc25280b5ae2291bf2b1d20/0e47af94110b555ef70cf1925a159a52/index.m3u8
+#EXTINF:-1 group-title="酒店源",DAZN 21072
+http://176868.cloud/0582cce06a2fe40f524573d689b93313/1f57f5ce5cc25280b5ae2291bf2b1d20/94951907370e376baf558a4eabddda2f/index.m3u8
+#EXTINF:-1 group-title="酒店源",鳯凰衛視資訊1210
+http://176868.cloud/c562eca953378eab871a318acf65f59b/1f57f5ce5cc25280b5ae2291bf2b1d20/9f0fd3d941a11ead974b241ce9075ac4/index.m3u8
+#EXTINF:-1 group-title="酒店源",鳯凰衛視中文1213
+http://176868.cloud/ccc1a36ebc6c9bdc2656de446752624f/1f57f5ce5cc25280b5ae2291bf2b1d20/dc709efe48d455cd9d8cbfeef861b589/index.m3u8
 #EXTINF:-1 group-title="酒店源",其他直播455
 https://lihi.cc/R9JJ4
 #EXTINF:-1 group-title="酒店源",其他直播456
