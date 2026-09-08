@@ -67,6 +67,8 @@ https://4gtv.tvbjack.ggff.net/?id=民視新聞台
 https://4gtv.tvbjack.ggff.net/?id=三立新聞iNEWS
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_media-live072_mobile.png" group-title="新聞財經",TVBS新聞
 https://4gtv.tvbjack.ggff.net/?id=TVBS新聞
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_media-live073_mobile.png" group-title="新聞財經",TVBS
+https://4gtv.tvbjack.ggff.net/?id=TVBS
 #EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv019_mobile.png" group-title="新聞財經",東森財經新聞台
 https://4gtv.tvbjack.ggff.net/?id=東森財經新聞台
 #EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv074_mobile.png" group-title="新聞財經",中視新聞
@@ -81,8 +83,6 @@ https://4gtv.tvbjack.ggff.net/?id=寰宇新聞台灣台
 https://4gtv.tvbjack.ggff.net/?id=SBN全球財經台
 #EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv158.png" group-title="新聞財經",寰宇財經台
 https://4gtv.tvbjack.ggff.net/?id=寰宇財經台
-#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_media-live073_mobile.png" group-title="新聞財經",TVBS
-https://4gtv.tvbjack.ggff.net/?id=TVBS
 #EXTINF:-1 tvg-id="東森購物四台" tvg-name="東森購物四台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live047_mobile.webp" group-title="綜合",東森購物四台
 https://4gtv.tvbjack.ggff.net/?id=東森購物四台
 #EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv004_mobile.png" group-title="音樂綜藝",民視綜藝台
