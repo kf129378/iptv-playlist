@@ -131,3 +131,5 @@ https://newda.msbot.dpdns.org/ofiii.php?id=litv-xinchuang03
 https://newda.msbot.dpdns.org/ofiii.php?id=litv-xinchuang02
 #EXTINF:-1 tvg-id="daystar" tvg-name="DayStar" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/Daystar_128x72.png" group-title="歐飛系列",DayStar
 https://newda.msbot.dpdns.org/ofiii.php?id=daystar
+#EXTINF:-1 tvg-id="daystar" tvg-name="愛爾達體育1" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000158.png" group-title="其他系列",DayStar
+http://192.129.226.68:5678/l/Fk8BeC8Vs-prQ7Fhs6yDB70Q9aXze3OfKlA8vOu2P_PPFUGgo4jBHq8ySlJI9wQs/index.m3u8
