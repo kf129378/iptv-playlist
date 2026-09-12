@@ -1,4 +1,76 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/myhomebox/EPG/main/output/4g.xml"
+#EXTINF:-1 tvg-id="dazn" tvg-name="DAZN體育台" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607141032107265/logoNobgWeb/202607241401178159.png" group-title="myvideo",DAZN體育台
+https://hb.msbot.dpdns.org/?id=dazn
+#EXTINF:-1 tvg-id="MyVideo-sport1" tvg-name="MyVideo體育台" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607141032107234/logoNobgWeb/202607241404142610.png" group-title="myvideo",MyVideo體育台
+https://hb.msbot.dpdns.org/?id=MyVideo-sport1
+#EXTINF:-1 tvg-id="fubon-guardians" tvg-name="富邦悍將" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607171558031376/logoNobgWeb/202607241406035859.png" group-title="myvideo",富邦悍將
+https://hb.msbot.dpdns.org/?id=fubon-guardians
+#EXTINF:-1 tvg-id="sportcast-sport1" tvg-name="博斯運動一台" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607141032107171/logoNobgWeb/202607271205316767.png" group-title="myvideo",博斯運動一台
+https://hb.msbot.dpdns.org/?id=sportcast-sport1
+#EXTINF:-1 tvg-id="sportcast-tennis" tvg-name="博斯網球台" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607141032107192/logoNobgWeb/202607271207035457.png" group-title="myvideo",博斯網球台
+https://hb.msbot.dpdns.org/?id=sportcast-tennis
+#EXTINF:-1 tvg-id="sportcast-golf" tvg-name="博斯高球台" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607141032107213/logoNobgWeb/202607271208307507.png" group-title="myvideo",博斯高球台
+https://hb.msbot.dpdns.org/?id=sportcast-golf
+#EXTINF:-1 tvg-id="oursport" tvg-name="智林體育台" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607141032107129/logoNobgWeb/202607241429401292.png" group-title="myvideo",智林體育台
+https://hb.msbot.dpdns.org/?id=oursport
+#EXTINF:-1 tvg-id="getwin-sport" tvg-name="甘霖體育台" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607141032107674/logoNobgWeb/202607241449121691.png" group-title="myvideo",甘霖體育台
+https://hb.msbot.dpdns.org/?id=getwin-sport
+#EXTINF:-1 tvg-id="ebc-news" tvg-name="東森新聞" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607141032107286/logoNobgWeb/202607241450301303.png" group-title="myvideo",東森新聞
+https://hb.msbot.dpdns.org/?id=ebc-news
+#EXTINF:-1 tvg-id="inews" tvg-name="三立iNEWS" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607141032107359/logoNobgWeb/202607271154281582.png" group-title="myvideo",三立iNEWS
+https://hb.msbot.dpdns.org/?id=inews
+#EXTINF:-1 tvg-id="ftv-news" tvg-name="民視新聞台" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607141032107317/logoNobgWeb/202607241453164536.png" group-title="myvideo",民視新聞台
+https://hb.msbot.dpdns.org/?id=ftv-news
+#EXTINF:-1 tvg-id="mnews" tvg-name="鏡電視新聞台" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607141032107370/logoNobgWeb/202607241454513357.png" group-title="myvideo",鏡電視新聞台
+https://hb.msbot.dpdns.org/?id=mnews
+#EXTINF:-1 tvg-id="ebc-finance" tvg-name="東森財經新聞" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607141032107338/logoNobgWeb/202607241457026144.png" group-title="myvideo",東森財經新聞
+https://hb.msbot.dpdns.org/?id=ebc-finance
+#EXTINF:-1 tvg-id="bloomberg" tvg-name="Bloomberg TV" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607141032107695/logoNobgWeb/202607241458478394.png" group-title="myvideo",Bloomberg TV
+https://hb.msbot.dpdns.org/?id=bloomberg
+#EXTINF:-1 tvg-id="cnbc-asia" tvg-name="CNBC Asia" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607180100042871/logoNobgWeb/202607241500147630.png" group-title="myvideo",CNBC Asia
+https://hb.msbot.dpdns.org/?id=cnbc-asia
+#EXTINF:-1 tvg-id="france24" tvg-name="FRANCE 24" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607141032107579/logoNobgWeb/202607241501395767.png" group-title="myvideo",FRANCE 24
+https://hb.msbot.dpdns.org/?id=france24
+#EXTINF:-1 tvg-id="cna" tvg-name="亞洲新聞台" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607201652438642/logoNobgWeb/202607241503087327.png" group-title="myvideo",亞洲新聞台
+https://hb.msbot.dpdns.org/?id=cna
+#EXTINF:-1 tvg-id="nhk-world" tvg-name="NHK新聞資訊台" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607201652438663/logoNobgWeb/202607241504252786.png" group-title="myvideo",NHK新聞資訊台
+https://hb.msbot.dpdns.org/?id=nhk-world
+#EXTINF:-1 tvg-id="dw" tvg-name="德國之聲電視台" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607201652438551/logoNobgWeb/202607241411198354.png" group-title="myvideo",德國之聲電視台
+https://hb.msbot.dpdns.org/?id=dw
+#EXTINF:-1 tvg-id="bbc-cbeebies" tvg-name="CBeebies" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607141032107558/logoNobgWeb/202607241223107860.png" group-title="myvideo",CBeebies
+https://hb.msbot.dpdns.org/?id=bbc-cbeebies
+#EXTINF:-1 tvg-id="momo-kids" tvg-name="MOMO親子台" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607201652438684/logoNobgWeb/202607241224446260.png" group-title="myvideo",MOMO親子台
+https://hb.msbot.dpdns.org/?id=momo-kids
+#EXTINF:-1 tvg-id="bbc-earth" tvg-name="BBC Earth" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607141032107506/logoNobgWeb/202607241156363918.png" group-title="myvideo",BBC Earth
+https://hb.msbot.dpdns.org/?id=bbc-earth
+#EXTINF:-1 tvg-id="history" tvg-name="歷史頻道" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607201652438736/logoNobgWeb/202607241158169648.png" group-title="myvideo",歷史頻道
+https://hb.msbot.dpdns.org/?id=history
+#EXTINF:-1 tvg-id="love-nature" tvg-name="LOVE NATURE" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607201652438705/logoNobgWeb/202607241409514593.png" group-title="myvideo",LOVE NATURE
+https://hb.msbot.dpdns.org/?id=love-nature
+#EXTINF:-1 tvg-id="crime-investigation" tvg-name="CI 罪案偵緝頻道" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607201652438778/logoNobgWeb/202607241200107810.png" group-title="myvideo",CI 罪案偵緝頻道
+https://hb.msbot.dpdns.org/?id=crime-investigation
+#EXTINF:-1 tvg-id="bbc-lifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607141032107537/logoNobgWeb/202607241154519946.png" group-title="myvideo",BBC Lifestyle
+https://hb.msbot.dpdns.org/?id=bbc-lifestyle
+#EXTINF:-1 tvg-id="lifetime" tvg-name="Lifetime" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607201652438809/logoNobgWeb/202607241202207920.png" group-title="myvideo",Lifetime
+https://hb.msbot.dpdns.org/?id=lifetime
+#EXTINF:-1 tvg-id="rock-enertainment" tvg-name="ROCK Entertainment" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607201652438820/logoNobgWeb/202607241213100570.png" group-title="myvideo",ROCK Entertainment
+https://hb.msbot.dpdns.org/?id=rock-enertainment
+#EXTINF:-1 tvg-id="rock-extreme" tvg-name="ROCK X EXTREME" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607201652438841/logoNobgWeb/202607241221336960.png" group-title="myvideo",ROCK X EXTREME
+https://hb.msbot.dpdns.org/?id=rock-extreme
+#EXTINF:-1 tvg-id="classica" tvg-name="古典音樂台" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607141032107077/logoNobgWeb/202607241414042864.png" group-title="myvideo",古典音樂台
+https://hb.msbot.dpdns.org/?id=classica
+#EXTINF:-1 tvg-id="cmusic" tvg-name="Cmusic" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607141032107108/logoNobgWeb/202607241415217446.png" group-title="myvideo",Cmusic
+https://hb.msbot.dpdns.org/?id=cmusic
+#EXTINF:-1 tvg-id="ftv" tvg-name="民視" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607141032107401/logoNobgWeb/202607241404367268.png" group-title="myvideo",民視
+https://hb.msbot.dpdns.org/?id=ftv
+#EXTINF:-1 tvg-id="ftv1" tvg-name="民視第一台" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607141032107443/logoNobgWeb/202607311721574193.png" group-title="myvideo",民視第一台
+https://hb.msbot.dpdns.org/?id=ftv1
+#EXTINF:-1 tvg-id="ftv-tw" tvg-name="民視台灣台" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607141032107422/logoNobgWeb/202607311723562263.png" group-title="myvideo",民視台灣台
+https://hb.msbot.dpdns.org/?id=ftv-tw
+#EXTINF:-1 tvg-id="hahatai" tvg-name="哈哈台" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607201652438757/logoNobgWeb/202607241408331893.png" group-title="myvideo",哈哈台
+https://hb.msbot.dpdns.org/?id=hahatai
+#EXTINF:-1 tvg-id="good-tv" tvg-name="好消息" tvg-logo="https://img.myvideo.net.tw/images/myvideoTVChannel/202607141032106651/logoNobgWeb/202607241412462624.png" group-title="myvideo",好消息
+https://hb.msbot.dpdns.org/?id=good-tv
 #EXTINF:-1 tvg-id="4gtv-4gtv040" tvg-name="中視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv040_tv.png" group-title="歐飛系列",中視
 https://newda.msbot.dpdns.org/ofiii.php?id=4gtv-4gtv040
 #EXTINF:-1 tvg-id="4gtv-4gtv041" tvg-name="華視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv041_tv.png" group-title="歐飛系列",華視
