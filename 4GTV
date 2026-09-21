@@ -131,9 +131,7 @@ https://newda.msbot.dpdns.org/ofiii.php?id=litv-xinchuang03
 https://newda.msbot.dpdns.org/ofiii.php?id=litv-xinchuang02
 #EXTINF:-1 tvg-id="daystar" tvg-name="DayStar" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/Daystar_128x72.png" group-title="歐飛系列",DayStar
 https://newda.msbot.dpdns.org/ofiii.php?id=daystar
-#EXTINF:-1 tvg-id="愛爾達" tvg-name="愛爾達體育1台" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000158.png" group-title="其他系列",愛爾達體育1台
-http://192.129.226.68:5678/l/Fk8BeC8Vs-prQ7Fhs6yDB70Q9aXze3OfKlA8vOu2P_PPFUGgo4jBHq8ySlJI9wQs/index.m3u8
-#EXTINF:-1 tvg-id="世新" tvg-name="諸羅藝文" tvg-logo="https://www.cyccatv.net.tw/images/channel_logos/ch100.png" group-title="其他系列",諸羅藝文
+#EXTINF:-1 tvg-id="世新" tvg-name="諸羅藝文" tvg-logo="https://www.cyccatv.net.tw/images/channel_logos/ch90cyc.png" group-title="其他系列",諸羅藝文
 http://61.58.60.230:9319/live/100.m3u8
-#EXTINF:-1 tvg-id="世新" tvg-name="幸福成家" tvg-logo="https://www.cyccatv.net.tw/images/channel_logos/ch168.png" group-title="其他系列",幸福成家
+#EXTINF:-1 tvg-id="世新" tvg-name="幸福成家" tvg-logo="https://www.cyccatv.net.tw/images/channel_logos/ch82.png" group-title="其他系列",幸福成家
 http://61.58.60.230:9319/live/168.m3u8
