@@ -135,3 +135,5 @@ https://newda.msbot.dpdns.org/ofiii.php?id=daystar
 http://61.58.60.230:9319/live/100.m3u8
 #EXTINF:-1 tvg-id="世新" tvg-name="幸福成家" tvg-logo="https://www.cyccatv.net.tw/images/channel_logos/ch82.png" group-title="其他系列",幸福成家
 http://61.58.60.230:9319/live/168.m3u8
+#EXTINF:-1 tvg-id="世新" tvg-name="海峽衛視" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kOQMeIe_WmGRSbD4n-NHI5G10X6mj5u6erQZDl_IoLLl0=s160-c-k-c0x00ffffff-no-rj" group-title="其他系列",海峽衛視
+https://lihi3.cc/KMPjC
