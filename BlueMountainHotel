@@ -179,11 +179,11 @@ http://sg.jjg.ccwu.cc/stream/live1036.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
 http://sg.jjg.ccwu.cc/stream/live1037.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://jrys.top/channellogo/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="酒店源",湖南衛視
 http://sg.jjg.ccwu.cc/stream/live1038.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",鳯凰衛視資訊
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://jrys.top/channellogo/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E5%8F%B0.png" group-title="酒店源",鳯凰衛視資訊
 http://sg.jjg.ccwu.cc/stream/live1210.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",鳯凰衛視中文
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://jrys.top/channellogo/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87%E5%8F%B0.png" group-title="酒店源",鳯凰衛視中文
 http://sg.jjg.ccwu.cc/stream/live1213.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://jrys.top/channellogo/PHOENIX%20INFO%20NEWS.png" group-title="酒店源",其他直播455
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://jrys.top/channellogo/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E5%8F%B0.png" group-title="酒店源",其他直播455
 https://lihi.cc/R9JJ4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://jrys.top/channellogo/ASTRO%20AEC.png" group-title="酒店源",其他直播456
 https://lihi.cc/jDIHU
