@@ -1,35 +1,35 @@
 #EXTM3U
-#EXTINF:-1 group-title="酒店源",台視HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/39b46d6a-faa6-42f7-af9c-4f0e40fb2166.jpg" group-title="酒店源",台視HD
 http://sg.jjg.ccwu.cc/stream/live1047.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv040_tv.png" group-title="酒店源",中視HD
 http://sg.jjg.ccwu.cc/stream/live1048.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
 #EXTINF:-1 tvg-id="4gtv-4gtv041" tvg-name="華視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv041_tv.png" group-title="酒店源",華視HD
 http://sg.jjg.ccwu.cc/stream/live1049.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",民視HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/69157e74-47d2-4425-84e8-2a30925e1fcd.png" group-title="酒店源",民視HD
 http://sg.jjg.ccwu.cc/stream/live1050.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",公視HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/258b33b2-262b-42e1-bb47-113563e59399.jpg" group-title="酒店源",公視HD
 http://sg.jjg.ccwu.cc/stream/live1201.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",人間衛視HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/95b402f2-18e7-4efc-a040-0dd5345fbbe5.png" group-title="酒店源",人間衛視HD
 http://sg.jjg.ccwu.cc/stream/live1198.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",大愛HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/77c60bde-0db4-4755-8b4f-109a7fed54dd.png" group-title="酒店源",大愛HD
 http://sg.jjg.ccwu.cc/stream/live1216.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",好消息HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/8cb0e6b2-78d6-4936-a1b8-7a3afdcc0ba3.png" group-title="酒店源",好消息HD
 http://sg.jjg.ccwu.cc/stream/live1231.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",DISCOVERY HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/1e063521-ef37-4007-a389-2b322cad319c.jpg" group-title="酒店源",DISCOVERY HD
 http://sg.jjg.ccwu.cc/stream/live1002.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",旅遊生活HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s.yimg.com/zb/imgv1/8d675069-0e8f-3bef-aae7-c0234d543221/t_500x300" group-title="酒店源",旅遊生活HD
 http://sg.jjg.ccwu.cc/stream/live1005.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",動物星球HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/afe6f3a8-f72c-4455-be2b-19fbc790c3f6.jpg" group-title="酒店源",動物星球HD
 http://sg.jjg.ccwu.cc/stream/live1004.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",亞洲旅遊HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.hsVtw4xevWcmk24qxQH_6AAAAA?r=0&pid=Api&h=220&P=0" group-title="酒店源",亞洲旅遊HD
 http://sg.jjg.ccwu.cc/stream/live1219.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",公視兒少台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ptsxs.pts.org.tw/uploads/site/site_logo/6687c1fe3673764c1c8c8bcb/PTSlogoXS.png" group-title="酒店源",公視兒少台
 http://sg.jjg.ccwu.cc/stream/custom29.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",ANIMAX動畫HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/39bc7bda-f2fe-4354-8606-1b94b33add68.png" group-title="酒店源",ANIMAX動畫HD
 https://sg.jjg.ccwu.cc/animax-stream/animax900.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",尼克兒童頻道HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000021.png" group-title="酒店源",尼克兒童頻道HD
 https://sg.jjg.ccwu.cc/ovo-stream/live1255.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",nickjr.小尼克HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000116.png" group-title="酒店源",nickjr.小尼克HD
 https://sg.jjg.ccwu.cc/ovo-stream/live1266.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
 #EXTINF:-1 group-title="酒店源",DreamWorks夢工廠
 https://sg.jjg.ccwu.cc/ovo-stream/live1271.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
