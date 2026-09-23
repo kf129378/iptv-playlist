@@ -51,25 +51,25 @@ http://sg.jjg.ccwu.cc/stream/live1020.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
 http://sg.jjg.ccwu.cc/stream/live1024.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/a47744bf-8ee7-445a-929c-a48af8332af2.jpg" group-title="酒店源",東森綜合HD
 http://sg.jjg.ccwu.cc/stream/live1041.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",超視HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/20b79dac-1088-4d6b-a0b5-fa8680682ef1.jpg" group-title="酒店源",東森超視HD
 http://sg.jjg.ccwu.cc/stream/live1180.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",中天綜合HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/2add40a1-750a-4c50-b282-67cbcd0dfdab.png" group-title="酒店源",中天綜合HD
 http://sg.jjg.ccwu.cc/stream/live1022.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",中天娛樂HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/ce62aadf-1e7c-41b9-86fa-c3fbe994d637.png" group-title="酒店源",中天娛樂HD
 http://sg.jjg.ccwu.cc/stream/live1023.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",東風衛視HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/9278ee6c-19b0-410a-8a2c-bffca1a280a0.png" group-title="酒店源",東風衛視HD
 http://sg.jjg.ccwu.cc/stream/live1195.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",年代MUCH HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/4e153804-87b6-460c-83a2-96be3bb5c16b.png" group-title="酒店源",年代MUCH HD
 http://sg.jjg.ccwu.cc/stream/live1189.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",東森戲劇HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/91b83aad-1c5d-4d2a-b7b7-c39bf05dea51.jpg" group-title="酒店源",東森戲劇HD
 http://sg.jjg.ccwu.cc/stream/live1042.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",八大戲劇HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/cec1b989-2d6c-41e0-9e34-076645a9f86a.jpg" group-title="酒店源",八大戲劇HD
 http://sg.jjg.ccwu.cc/stream/live1057.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",TVBS歡樂HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/b29e7c45-6037-4db8-98b3-51f9a441ce3a.jpg" group-title="酒店源",TVBS歡樂HD
 http://sg.jjg.ccwu.cc/stream/live1018.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",緯來戲劇HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/2e4d2dcf-4047-48e5-8be7-19cd5a3e8e75.png" group-title="酒店源",緯來戲劇HD
 http://sg.jjg.ccwu.cc/stream/live1186.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",中視菁采HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://jrys.top/channellogo/%E4%B8%AD%E8%A7%86%E8%8F%81%E9%87%87.png" group-title="酒店源",中視菁采HD
 http://sg.jjg.ccwu.cc/stream/live1235.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/c1655b88-7d02-45e6-a180-273812a5ab49.jpg" group-title="酒店源",台視綜合HD
 http://sg.jjg.ccwu.cc/alt-stream/live1109.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
@@ -119,9 +119,9 @@ http://sg.jjg.ccwu.cc/stream/live1013.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
 http://sg.jjg.ccwu.cc/stream/live1012.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/b3aa7b23-921f-4892-81db-a75933dcf02b.jpg" group-title="酒店源",台視財經HD
 http://sg.jjg.ccwu.cc/alt-stream/live1108.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",寰宇新聞HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://jrys.top/channellogo/%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB.png" group-title="酒店源",寰宇新聞HD
 http://sg.jjg.ccwu.cc/stream/live1222.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",華視新聞資訊HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000054.png" group-title="酒店源",華視新聞資訊HD
 http://sg.jjg.ccwu.cc/alt-stream/live1120.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/8f535094-4247-4231-82fd-6de1b26cd638.jpg" group-title="酒店源",中視新聞HD
 http://sg.jjg.ccwu.cc/alt-stream/live1115.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
@@ -147,25 +147,25 @@ http://sg.jjg.ccwu.cc/stream/live1054.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
 http://sg.jjg.ccwu.cc/stream/live1030.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/d8b288ae-e435-47da-83a3-1bed3fa117af.jpg" group-title="酒店源",AMC 電影台HD
 http://sg.jjg.ccwu.cc/stream/live1032.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",寵物頻道HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/55169b0e-1b1f-4e8d-ba04-2a01b521b89b.jpg" group-title="酒店源",寵物頻道HD
 http://sg.jjg.ccwu.cc/stream/live1040.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",緯來育樂HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/42a4cac0-94a7-4276-8d2a-37394622d00b.png" group-title="酒店源",緯來育樂HD
 http://sg.jjg.ccwu.cc/stream/live1045.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",緯來體育HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/2f6f74e3-3c15-40df-ab98-6ec754199362.png" group-title="酒店源",緯來體育HD
 http://sg.jjg.ccwu.cc/stream/live1011.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",博斯高球一台HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/0c2f00ca-f394-413a-8b8f-9723b64c1916.jpg" group-title="酒店源",博斯高球一台HD
 http://sg.jjg.ccwu.cc/alt-stream/live1117.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",博斯運動一台HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/229b148a-d8aa-417d-b5bb-6f9145151ba4.jpg" group-title="酒店源",博斯運動一台HD
 https://sg.jjg.ccwu.cc/ovo-stream/live1261.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",博斯運動二台HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/08055e0f-a3a4-4ff1-be63-9f1237e23c58.jpg" group-title="酒店源",博斯運動二台HD
 http://sg.jjg.ccwu.cc/stream/live1225.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",momo綜合HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/63841d34-9528-4e04-a4a7-35498d787ca9.jpg" group-title="酒店源",momo綜合HD
 http://sg.jjg.ccwu.cc/stream/live1248.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",DAZN 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/f1573762-b5fa-4f5b-b801-e4a8ba0960b8.jpg" group-title="酒店源",DAZN 1
 http://sg.jjg.ccwu.cc/stream/live1069.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",DAZN 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/8ad6351f-b95c-46e8-b3f8-5d0faf7a1435.jpg" group-title="酒店源",DAZN 2
 http://sg.jjg.ccwu.cc/stream/live1072.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",Trace Sport Stars
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://jrys.top/channellogo/TRACE%20SPORTSTARS.png" group-title="酒店源",Trace Sport Stars
 http://sg.jjg.ccwu.cc/stream/live1003.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
 #EXTINF:-1 group-title="酒店源",廈門衛視
 http://sg.jjg.ccwu.cc/stream/live1033.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
