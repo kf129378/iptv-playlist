@@ -99,23 +99,23 @@ http://sg.jjg.ccwu.cc/stream/live1026.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
 http://sg.jjg.ccwu.cc/stream/live1242.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/884ba215-a541-48ba-98d3-b749bb4c22b6.png" group-title="酒店源",年代新聞HD
 http://sg.jjg.ccwu.cc/stream/live1192.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",東森新聞HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/a93a8a7d-efd4-4a1f-b81c-46963a48d8c8.jpg" group-title="酒店源",東森新聞HD
 http://sg.jjg.ccwu.cc/stream/live1014.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",中天新聞
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.memuplay.com/new_market/img/dev.ctinews.jbravo.userapp.icon.2024-12-17-00-24-30.png" group-title="酒店源",中天新聞
 http://sg.jjg.ccwu.cc/stream/live1015.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/a600e433-186b-4288-ade4-d8436be0f1b7.jpg" group-title="酒店源",民視新聞HD
 http://sg.jjg.ccwu.cc/stream/live1204.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",三立新聞HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.o5OdjOYs7qlKpB5oZxFX-AAAAA?r=0&pid=Api&h=220&P=0" group-title="酒店源",三立新聞HD
 http://sg.jjg.ccwu.cc/stream/live1016.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",TVBS新聞HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/951751ae-944e-4246-b91e-56e7080d6525.jpg" group-title="酒店源",TVBS新聞HD
 http://sg.jjg.ccwu.cc/stream/live1051.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",TVBS HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/8fe6edf1-6cb9-4bf3-8a85-c7c24ea8d792.jpg" group-title="酒店源",TVBS HD
 http://sg.jjg.ccwu.cc/stream/live1251.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",東森財經HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/a1c69218-3b5a-44c9-8e07-a18551c1066b.jpg" group-title="酒店源",東森財經HD
 http://sg.jjg.ccwu.cc/stream/live1017.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",非凡新聞HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/457d99eb-29f1-4208-9d69-c0f7b4f69588.jpg" group-title="酒店源",非凡新聞HD
 http://sg.jjg.ccwu.cc/stream/live1013.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 group-title="酒店源",非凡商業HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/2e67a71b-7101-4ab2-8ecd-261ae92082c2.jpg" group-title="酒店源",非凡商業HD
 http://sg.jjg.ccwu.cc/stream/live1012.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
 #EXTINF:-1 group-title="酒店源",台視財經HD
 http://sg.jjg.ccwu.cc/alt-stream/live1108.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
