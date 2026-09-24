@@ -139,12 +139,12 @@ http://61.58.60.230:9319/live/168.m3u8
 https://lihi.cc/2UlPc
 #EXTINF:-1 tvg-id="世新" tvg-name="BBC生活" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/2a552a2e-c18c-484a-a7e8-ef9d6cee3b3d.jpg" group-title="其他系列",BBC生活
 https://play-drm.aliiptv.com/live/BBCLifestyle.m3u8?verify=1790056258-937Ogv46aANf4VYzcc58e28264Q0hXi7qWICUV5W0VU
-#EXTINF:-1 tvg-id="世新" tvg-name="霹靂綜合" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/b804290a-41d2-43fc-8316-828817cb70a6.png" group-title="其他系列",霹靂綜合
-http://iptvpro.pw:35451/live/加QQ1078393318/1609875430/252888.ts
+#EXTINF:-1 tvg-id="世新" tvg-name="CN卡通" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/bda4c468-a01e-420a-94f4-2e43a325e966.png" group-title="其他系列",CN卡通
+https://play-drm.aliiptv.com/live/cnkt.m3u8?verify=1790056492-z_kcj-4T_dhOI97ARxEdze0-GjYuatr5oYZC-tsv0i0
 #EXTINF:-1 tvg-id="世新" tvg-name="八大娛樂" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/ea54261e-5d9b-494e-abc9-be3e1a8373c5.jpg" group-title="其他系列",八大娛樂
 http://iptvpro.pw:35451/live/加QQ1078393318/1609875430/245.ts
-#EXTINF:-1 tvg-id="世新" tvg-name="台灣藝術" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/dd9f0b53-4cb7-4c90-a423-72215391e4d2.png" group-title="其他系列",台灣藝術
-http://iptvpro.pw:35451/live/加QQ1078393318/1609875430/252887.ts
+#EXTINF:-1 tvg-id="世新" tvg-name="龍祥時代" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/e70b3ff6-f05d-404c-95c9-65c3ea26f39c.png" group-title="其他系列",龍祥時代
+https://play-drm.aliiptv.com/live/lstime.m3u8?verify=1790055805-hYx1isexkNhv_YYvpIrPaQxo9rcXuRSHNwhEfY3cSKw
 #EXTINF:-1 tvg-id="世新" tvg-name="東森電影" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/29ddfaf6-07b4-433b-aa3d-04188388ab82.jpg" group-title="其他系列",東森電影
 https://play-drm.aliiptv.com/live/dsdy.m3u8?verify=1790055773-aWnRKgjtW53iZTzuI798W4rK9w-DqJ0dUguzl47DfAY
 #EXTINF:-1 tvg-id="世新" tvg-name="東森洋片" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/a3425a45-f533-4283-afe3-0839a226f7e2.jpg" group-title="其他系列",東森洋片
