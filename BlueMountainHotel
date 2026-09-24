@@ -133,7 +133,7 @@ http://sg.jjg.ccwu.cc/stream/live1031.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
 http://sg.jjg.ccwu.cc/stream/live1027.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/06e8b7e0-f928-4439-8b26-1d928c14ea9b.png" group-title="酒店源",NHK WORLD
 http://sg.jjg.ccwu.cc/stream/live1245.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://jrys.top/channellogo/NHKBS.png" group-title="酒店源",NHK BS1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://jrys.top/channellogo/NHKBS.png" group-title="酒店源",NHK BS
 https://sg.jjg.ccwu.cc/alt-stream/live1155.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.GF1BNIW5A1bSLxpj5eJxbAAAAA?r=0&pid=Api&h=220&P=0" group-title="酒店源",NHK BSP
 https://sg.jjg.ccwu.cc/alt-stream/live1154.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
