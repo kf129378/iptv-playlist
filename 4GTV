@@ -141,8 +141,8 @@ https://lihi.cc/2UlPc
 https://play-drm.aliiptv.com/live/BBCLifestyle.m3u8?verify=1790056258-937Ogv46aANf4VYzcc58e28264Q0hXi7qWICUV5W0VU
 #EXTINF:-1 tvg-id="世新" tvg-name="CN卡通" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/bda4c468-a01e-420a-94f4-2e43a325e966.png" group-title="其他系列",CN卡通
 https://play-drm.aliiptv.com/live/cnkt.m3u8?verify=1790056492-z_kcj-4T_dhOI97ARxEdze0-GjYuatr5oYZC-tsv0i0
-#EXTINF:-1 tvg-id="世新" tvg-name="八大娛樂" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/ea54261e-5d9b-494e-abc9-be3e1a8373c5.jpg" group-title="其他系列",八大娛樂
-http://iptvpro.pw:35451/live/加QQ1078393318/1609875430/245.ts
+#EXTINF:-1 tvg-id="世新" tvg-name="HBO家庭" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/71c1c1e8-0cd2-43dd-bef9-998e82a2043c.jpg" group-title="其他系列",HBO家庭
+https://play-drm.aliiptv.com/live/HBOfamilyHD.m3u8?verify=1790056355-vU35IFSqkMxqvpHU0KJxCMNj5nAMyF5RqG6f0Vmevz
 #EXTINF:-1 tvg-id="世新" tvg-name="龍祥時代" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/e70b3ff6-f05d-404c-95c9-65c3ea26f39c.png" group-title="其他系列",龍祥時代
 https://play-drm.aliiptv.com/live/lstime.m3u8?verify=1790055805-hYx1isexkNhv_YYvpIrPaQxo9rcXuRSHNwhEfY3cSKw
 #EXTINF:-1 tvg-id="世新" tvg-name="東森電影" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/29ddfaf6-07b4-433b-aa3d-04188388ab82.jpg" group-title="其他系列",東森電影
