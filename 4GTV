@@ -9,6 +9,12 @@ https://lihi.cc/2UlPc
 https://play-drm.aliiptv.com/live/BBCLifestyle.m3u8?verify=1790056258-937Ogv46aANf4VYzcc58e28264Q0hXi7qWICUV5W0VU
 #EXTINF:-1 tvg-id="世新" tvg-name="CN卡通" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/bda4c468-a01e-420a-94f4-2e43a325e966.png" group-title="其他系列",CN卡通
 https://play-drm.aliiptv.com/live/cnkt.m3u8?verify=1790056492-z_kcj-4T_dhOI97ARxEdze0-GjYuatr5oYZC-tsv0i0
+#EXTINF:-1 tvg-id="世新" tvg-name="HBOHD" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/cacd11e0-5381-4e15-b853-0e88b2bb1a0d.jpg" group-title="其他系列",HBOHD
+https://play-drm.aliiptv.com/live/HBOHD.m3u8?verify=1790056335-YHlCEsHNsTc8_llJyEJ1K_btNVIMz02misk55ZUf9BE
+#EXTINF:-1 tvg-id="世新" tvg-name="HBO原創" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/aee12bcb-6d03-41e0-8ee1-3b278849af60.jpg" group-title="其他系列",HBO原創
+https://play-drm.aliiptv.com/live/HBOSignature.m3u8?verify=1790056398-aY7FJgRtwYT7vaYqSY2n72NJLtpKXweF7dZ3yOWnKX4
+#EXTINF:-1 tvg-id="世新" tvg-name="HBO強檔" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/aee12bcb-6d03-41e0-8ee1-3b278849af60.jpg" group-title="其他系列",HBO強檔
+https://play-drm.aliiptv.com/live/HBOHitsHD.m3u8?verify=1790056376-3h4Cr8Ngj_O6ExW3QRz_qEjYgxMOSj9PVrSZRMaFZz
 #EXTINF:-1 tvg-id="世新" tvg-name="HBO家庭" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/71c1c1e8-0cd2-43dd-bef9-998e82a2043c.jpg" group-title="其他系列",HBO家庭
 https://play-drm.aliiptv.com/live/HBOfamilyHD.m3u8?verify=1790056355-vU35IFSqkMxqvpHU0KJxCMNj5nAMyF5RqG6f0Vmevz
 #EXTINF:-1 tvg-id="世新" tvg-name="龍祥時代" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/e70b3ff6-f05d-404c-95c9-65c3ea26f39c.png" group-title="其他系列",龍祥時代
@@ -17,3 +23,9 @@ https://play-drm.aliiptv.com/live/lstime.m3u8?verify=1790055805-hYx1isexkNhv_YYv
 https://play-drm.aliiptv.com/live/dsdy.m3u8?verify=1790055773-aWnRKgjtW53iZTzuI798W4rK9w-DqJ0dUguzl47DfAY
 #EXTINF:-1 tvg-id="世新" tvg-name="東森洋片" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/a3425a45-f533-4283-afe3-0839a226f7e2.jpg" group-title="其他系列",東森洋片
 https://play-drm.aliiptv.com/live/dsyp.m3u8?verify=1790055742-nUiApG2-yy5wpOcVZw5t_wVHbI7BHUYCVCdWMP-w0M8
+#EXTINF:-1 tvg-id="世新" tvg-name="CHC影迷" tvg-logo="https://jrys.top/channellogo/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png" group-title="其他系列",CHC影迷
+https://lihi3.cc/0ukYX
+#EXTINF:-1 tvg-id="世新" tvg-name="CHC動作" tvg-logo="https://jrys.top/channellogo/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png" group-title="其他系列",CHC動作
+https://lihi3.cc/EoBbm
+#EXTINF:-1 tvg-id="世新" tvg-name="CHC家庭" tvg-logo="https://jrys.top/channellogo/CHC%E5%AE%B6%E5%BA%AD%E7%94%B5%E5%BD%B1.png" group-title="其他系列",CHC家庭
+https://lihi3.cc/uLeTa
