@@ -3,7 +3,7 @@
 http://61.58.60.230:9319/live/100.m3u8
 #EXTINF:-1 tvg-id="世新" tvg-name="幸福成家" tvg-logo="https://www.cyccatv.net.tw/images/channel_logos/ch82.png" group-title="其他系列",幸福成家
 http://61.58.60.230:9319/live/168.m3u8
-#EXTINF:-1 tvg-id="世新" tvg-name="三立iNEWS" tvg-logo="https://jrys.top/channellogo/%E4%B8%89%E7%AB%8BINEWS.png" group-title="其他系列",三立iNEWS
+#EXTINF:-1 tvg-id="世新" tvg-name="三立iNEWS" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/ea9b7432-fc9c-49f0-9d10-0e4cd75724e5.jpg" group-title="其他系列",三立iNEWS
 https://lihi.cc/SKPsj
 #EXTINF:-1 tvg-id="世新" tvg-name="求索紀錄" tvg-logo="https://bkimg.cdn.bcebos.com/pic/8b13632762d0f70343dbf12502fa513d2797c5da" group-title="其他系列",求索紀錄
 http://192.187.124.34:81/live/qsjl.m3u8
