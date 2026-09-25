@@ -1,3 +1,4 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/myhomebox/EPG/main/output/4g.xml"
 #EXTINF:-1 tvg-id="世新" tvg-name="諸羅藝文" tvg-logo="https://www.cyccatv.net.tw/images/channel_logos/ch90cyc.png" group-title="其他系列",諸羅藝文
 http://61.58.60.230:9319/live/100.m3u8
 #EXTINF:-1 tvg-id="世新" tvg-name="幸福成家" tvg-logo="https://www.cyccatv.net.tw/images/channel_logos/ch82.png" group-title="其他系列",幸福成家
