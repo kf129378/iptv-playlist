@@ -183,6 +183,8 @@ http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1277.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/59ce421e-e069-431a-8e63-047d2681da4d.jpg" group-title="酒店源",愛自然頻道
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1286.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.azurevilla.com.tw/images/logo-wihte.png" group-title="酒店源",藍山會館
+http://5700.de5.net/mqlive/live.php?ip=61.220.72.26&url=http://61.220.72.26:5003/custom19.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.4lz7jtNp0k_k0Ci6CmtZkgHaEq?r=0&pid=Api&h=220&P=0" group-title="酒店源",廈門衛視
 http://sg.jjg.ccwu.cc/stream/live1033.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://jrys.top/channellogo/CCTV4.png" group-title="酒店源",CCTV4-央視
