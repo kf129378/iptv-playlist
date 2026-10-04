@@ -27,3 +27,5 @@ http://srteamhls.gotvsports.com:41111/ynmiv1i5as4k1oue/index.m3u8
 http://srteamhls.gotvsports.com:41111/o1um0allc3pkwbae/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/162f23c1-7f68-4ba8-846f-2b58f35976f5.jpg" group-title="酒店源",極限電影
 http://srteamhls.gotvsports.com:41111/s0doso0ydxe3yk2s/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/77b55449-8e18-4dcb-8c2d-a45c5ee715f1.jpg" group-title="酒店源",驚豔電影
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
