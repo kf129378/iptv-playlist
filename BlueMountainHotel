@@ -176,7 +176,7 @@ http://sg.jjg.ccwu.cc/stream/live1003.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/7a7704f0-6987-4766-8500-a81b0b62766f.jpg" group-title="酒店源",達文西頻道
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1264.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/564a3904-5ff2-46da-ac53-47c3b8144a5c.jpg" group-title="酒店源",搖滾動作電影頻道
-http://iptv.852851.xyz/l/zMJJ2MrAV2WLYjVhE4RtX04q3k8h6d6O54gPYrvCEYNUv5JiiowdJtjhMOBPtmRA/index.m3u8
+http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1274.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/02cfdd76-dd33-4b50-97da-8b97f06476b6.jpg" group-title="酒店源",搖滾娛樂頻道
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1283.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/7675636c-7894-42d9-8ed1-484ba864177a.jpg" group-title="酒店源",G.T.探索世界頻道
