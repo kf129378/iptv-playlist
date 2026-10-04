@@ -138,7 +138,7 @@ http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.GF1BNIW5A1bSLxpj5eJxbAAAAA?r=0&pid=Api&h=220&P=0" group-title="酒店源",NHK BSP
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1154.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000096.png" group-title="酒店源",法國時裝頻道
-http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1138.m3u8
+http://5700.de5.net/mqlive/live.php?ip=218.32.47.179&url=http://218.32.47.179:5003/live1670.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/28396fe3-f41d-4c84-997e-9fe302a158b8.jpg" group-title="酒店源",Bloomberg News
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1066.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/617cfe76-66f8-4a43-be9e-745bb3f74dde.png" group-title="酒店源",緯來電影HD
