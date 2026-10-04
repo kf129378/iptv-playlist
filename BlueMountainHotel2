@@ -110,7 +110,7 @@ http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/951751ae-944e-4246-b91e-56e7080d6525.jpg" group-title="酒店源",TVBS新聞HD
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1051.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/8fe6edf1-6cb9-4bf3-8a85-c7c24ea8d792.jpg" group-title="酒店源",TVBS HD
-http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1054.m3u8
+http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1254.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/a1c69218-3b5a-44c9-8e07-a18551c1066b.jpg" group-title="酒店源",東森財經HD
 http://5700.de5.net/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1017.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/457d99eb-29f1-4208-9d69-c0f7b4f69588.jpg" group-title="酒店源",非凡新聞HD
