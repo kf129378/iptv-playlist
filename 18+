@@ -31,3 +31,7 @@ http://srteamhls.gotvsports.com:41111/s0doso0ydxe3yk2s/index.m3u8
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/77b55449-8e18-4dcb-8c2d-a45c5ee715f1.jpg" group-title="酒店源+",驚豔2台
 http://125.227.210.55:1022/VideoInput/play.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/77b55449-8e18-4dcb-8c2d-a45c5ee715f1.jpg" group-title="酒店源+",驚豔3台
+http://125.227.210.55:1023/VideoInput/play.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/77b55449-8e18-4dcb-8c2d-a45c5ee715f1.jpg" group-title="酒店源+",驚豔4台
+http://125.227.210.55:3016/VideoInput/play.ts
