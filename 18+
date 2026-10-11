@@ -38,3 +38,13 @@ http://125.227.210.55:1023/VideoInput/play.ts
 http://125.227.210.55:3016/VideoInput/play.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/77b55449-8e18-4dcb-8c2d-a45c5ee715f1.jpg" group-title="酒店源+",驚豔4台
 http://125.227.210.55:1009/VideoInput/play.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.Z_-RH7ufJucyi56LLk3TVQHaEo?r=0&pid=Api&h=220&P=0" group-title="酒店源+",風雲夜場11
+http://77.90.15.78/YC20161015.php?id=33
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.Z_-RH7ufJucyi56LLk3TVQHaEo?r=0&pid=Api&h=220&P=0" group-title="酒店源+",風雲夜場9
+http://77.90.15.78/YC20161015.php?id=31
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.Z_-RH7ufJucyi56LLk3TVQHaEo?r=0&pid=Api&h=220&P=0" group-title="酒店源+",風雲夜場7
+http://77.90.15.78/YC20161015.php?id=29
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.Z_-RH7ufJucyi56LLk3TVQHaEo?r=0&pid=Api&h=220&P=0" group-title="酒店源+",風雲夜場6
+http://77.90.15.78/YC20161015.php?id=28
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.Z_-RH7ufJucyi56LLk3TVQHaEo?r=0&pid=Api&h=220&P=0" group-title="酒店源+",風雲夜場0
+http://77.90.15.78/YC20161015.php?id=14
