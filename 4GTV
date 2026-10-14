@@ -79,7 +79,7 @@ http://good.852851.xyz/l/6s372UF7pYWc09SOFqY5O1RIFy8g6MrwJWTZY-rGRH5F8SyO64B839g
 http://good.852851.xyz/l/tD_7ntfjZ5etMY3wtqwGDDaIFxoVjKFQcQYjWuQqKpB4PJsIDjB1vpm6wuRR5rCC/index.m3u8
 #EXTINF:-1 tvg-id="世新" tvg-name="靖天中文" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000286.png" group-title="其他系列",MOMOTV
 http://good.852851.xyz/l/2_7R-uaj-VVPOQjrMLzujdq0fe9KSvGpsmbc8EskCG5SidAf_kvxC2M48ALT1quB/index.m3u8
-#EXTINF:-1 tvg-id="世新" tvg-name="靖天日本" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000286.png" group-title="其他系列",中天經典
+#EXTINF:-1 tvg-id="世新" tvg-name="靖天日本" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000286.png" group-title="其他系列",中視經典
 http://good.852851.xyz/l/uwVz5FFr-V7ubScnSPQsF2L0F5StQHVVXgSo_wC7MBDtu-w2iuTb4qLB7Rkj_3W9/index.m3u8
 #EXTINF:-1 tvg-id="世新" tvg-name="ROCK Action" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000286.png" group-title="其他系列",非凡商業
 http://good.852851.xyz/l/YROeOMaz2aN0H7V4IqVykISMTmxNhUTF6l9wggMI8arlFAszygVh9B7BwYAov_8b/index.m3u8
@@ -99,5 +99,7 @@ http://good.852851.xyz/l/jdw-L7ukHm_-0BOkG_qyWuSPey1Mq29l_eDQqLwSy545YGA576NafE5
 http://good.852851.xyz/l/3ADcEYdt2Oc2yBDYcb-N89ofQ3pA3QDdxnycT7qAk_jN0HfHSQhZstqsRXiyMj4y/index.m3u8
 #EXTINF:-1 tvg-id="世新" tvg-name="罪案偵緝頻道" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000286.png" group-title="其他系列",Discovery EVE
 http://good.852851.xyz/l/DrmIoDLoi5EhwWLVYk-_BB_PTrSAOuxPrqH3vKiD-IudhTCcsczdCtclHAmyQUL8/index.m3u8
+#EXTINF:-1 tvg-id="世新" tvg-name="中天亚洲台" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000286.png" group-title="其他系列",中天亚洲台
+http://good.852851.xyz/l/ZvZJrt5kT9Yev2Rni_2PtY33PeyBhFQs4-S1cmOk1HrHwa92Uhi3ugIVN3gH0tXu/index.m3u8
 #EXTINF:-1 tvg-id="世新" tvg-name="靖天中文台" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@21@2113_20251124091157.jpg" group-title="其他系列",靖天中文台
 https://cc.qquu.bid/hami/2132.m3u8?key=e7218f1ad63264d22aac67f3f7c2c3b5
