@@ -1,79 +1,79 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@27@2124_20260728065234.png" group-title="",Hami大聯盟1台
 https://cc.gxdx.org/hami/2124.m3u8?key=120684f17af24a1f7c85930aa00eeb25
-#EXTINF:-1 tvg-name="Hami大聯盟2台" group-title="",Hami大聯盟2台
+#EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@27@2125_20260728065619.png" group-title="",Hami大聯盟2台
 https://cc.gxdx.org/hami/2125.m3u8?key=120684f17af24a1f7c85930aa00eeb25
-#EXTINF:-1 tvg-name="愛爾達體育1台" group-title="",愛爾達體育1台
+#EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1744.png" group-title="",愛爾達體育1台
 https://cc.gxdx.org/hami/1744.m3u8?key=120684f17af24a1f7c85930aa00eeb25
-#EXTINF:-1 tvg-name="愛爾達體育2台" group-title="",愛爾達體育2台
+#EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1743.png" group-title="",愛爾達體育2台
 https://cc.gxdx.org/hami/1743.m3u8?key=120684f17af24a1f7c85930aa00eeb25
-#EXTINF:-1 tvg-name="愛爾達體育3台" group-title="",愛爾達體育3台
+#EXTINF:-1 tvg-name"" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1743.png" group-title="",愛爾達體育3台
 https://cc.gxdx.org/hami/1745.m3u8?key=120684f17af24a1f7c85930aa00eeb25
-#EXTINF:-1 tvg-name="愛爾達體育4台" group-title="",愛爾達體育4台
+#EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1743.png" group-title="",愛爾達體育4台
 https://cc.gxdx.org/hami/2055.m3u8?key=120684f17af24a1f7c85930aa00eeb25
-#EXTINF:-1 tvg-name="愛爾達寵物運動台" group-title="",愛爾達寵物運動台
+#EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1743.png" group-title="",愛爾達寵物運動台
 https://cc.gxdx.org/hami/1518.m3u8?key=120684f17af24a1f7c85930aa00eeb25
-#EXTINF:-1 tvg-name="愛爾達體育MAX1台" group-title="",愛爾達體育MAX1台
+#EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1743.png" group-title="",愛爾達體育MAX1台
 https://cc.gxdx.org/hami/1853.m3u8?key=120684f17af24a1f7c85930aa00eeb25
-#EXTINF:-1 tvg-name="愛爾達體育MAX2台" group-title="",愛爾達體育MAX2台
+#EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1743.png" group-title="",愛爾達體育MAX2台
 https://cc.gxdx.org/hami/1854.m3u8?key=120684f17af24a1f7c85930aa00eeb25
-#EXTINF:-1 tvg-name="愛爾達體育MAX3台" group-title="",愛爾達體育MAX3台
+#EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1743.png" group-title="",愛爾達體育MAX3台
 https://cc.gxdx.org/hami/1855.m3u8?key=120684f17af24a1f7c85930aa00eeb25
-#EXTINF:-1 tvg-name="愛爾達體育MAX4台" group-title="",愛爾達體育MAX4台
+#EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1743.png" group-title="",愛爾達體育MAX4台
 https://cc.gxdx.org/hami/1856.m3u8?key=120684f17af24a1f7c85930aa00eeb25
-#EXTINF:-1 tvg-name="Hami WBC1台" group-title="",Hami WBC1台
+#EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1743.png" group-title="",Hami WBC1台
 https://cc.gxdx.org/hami/1908.m3u8?key=120684f17af24a1f7c85930aa00eeb25
-#EXTINF:-1 tvg-name="Hami熱播台" group-title="",Hami熱播台
+#EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1743.png" group-title="",Hami熱播台
 https://cc.gxdx.org/hami/2126.m3u8?key=120684f17af24a1f7c85930aa00eeb25
-#EXTINF:-1 tvg-name="Hami足球1台" group-title="",Hami足球1台
+#EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1743.png" group-title="",Hami足球1台
 https://cc.gxdx.org/hami/1983.m3u8?key=120684f17af24a1f7c85930aa00eeb25
-#EXTINF:-1 tvg-name="Hami體育1台" group-title="",Hami體育1台
+#EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1743.png" group-title="",Hami體育1台
 https://cc.gxdx.org/hami/2089.m3u8?key=120684f17af24a1f7c85930aa00eeb25
-#EXTINF:-1 tvg-name="TRACE Sport Stars" group-title="",TRACE Sport Stars
+#EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1743.png" group-title="",TRACE Sport Stars
 https://cc.gxdx.org/hami/1759.m3u8?key=120684f17af24a1f7c85930aa00eeb25
-#EXTINF:-1 tvg-name="博斯無限二台" group-title="",博斯無限二台
+#EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1743.png" group-title="",博斯無限二台
 https://cc.gxdx.org/hami/1973.m3u8?key=120684f17af24a1f7c85930aa00eeb25
-#EXTINF:-1 tvg-name="博斯無限台" group-title="",博斯無限台
+#EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1743.png" group-title="",博斯無限台
 https://cc.gxdx.org/hami/1882.m3u8?key=120684f17af24a1f7c85930aa00eeb25
-#EXTINF:-1 tvg-name="博斯網球台" group-title="",博斯網球台
+#EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1743.png" group-title="",博斯網球台
 https://cc.gxdx.org/hami/1903.m3u8?key=120684f17af24a1f7c85930aa00eeb25
-#EXTINF:-1 tvg-name="博斯運動一台" group-title="",博斯運動一台
+#EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1743.png" group-title="",博斯運動一台
 https://cc.gxdx.org/hami/1845.m3u8?key=120684f17af24a1f7c85930aa00eeb25
-#EXTINF:-1 tvg-name="博斯運動二台" group-title="",博斯運動二台
+#EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1743.png" group-title="",博斯運動二台
 https://cc.gxdx.org/hami/2110.m3u8?key=120684f17af24a1f7c85930aa00eeb25
-#EXTINF:-1 tvg-name="博斯高球一台" group-title="",博斯高球一台
+#EXTINF:-1 tvg-name"" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1743.png" group-title="",博斯高球一台
 https://cc.gxdx.org/hami/1846.m3u8?key=120684f17af24a1f7c85930aa00eeb25
-#EXTINF:-1 tvg-name="博斯魅力網" group-title="",博斯魅力網
+#EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1743.png" group-title="",博斯魅力網
 https://cc.gxdx.org/hami/1972.m3u8?key=120684f17af24a1f7c85930aa00eeb25
-#EXTINF:-1 tvg-name="amc電影台" group-title="",amc電影台
+#EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1743.png" group-title="",amc電影台
 https://cc.gxdx.org/hami/1546.m3u8?key=120684f17af24a1f7c85930aa00eeb25
-#EXTINF:-1 tvg-name="CinemaWorld頻道" group-title="",CinemaWorld頻道
+#EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1743.png" group-title="",CinemaWorld頻道
 https://cc.gxdx.org/hami/2097.m3u8?key=120684f17af24a1f7c85930aa00eeb25
-#EXTINF:-1 tvg-name="CNEX紀實頻道" group-title="",CNEX紀實頻道
+#EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1743.png" group-title="",CNEX紀實頻道
 https://cc.gxdx.org/hami/1752.m3u8?key=120684f17af24a1f7c85930aa00eeb25
-#EXTINF:-1 tvg-name="ROCK Action" group-title="",ROCK Action
+#EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1743.png" group-title="",ROCK Action
 https://cc.gxdx.org/hami/2005.m3u8?key=120684f17af24a1f7c85930aa00eeb25
-#EXTINF:-1 tvg-name="Warner TV" group-title="",Warner TV
+#EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1743.png" group-title="",Warner TV
 https://cc.gxdx.org/hami/1888.m3u8?key=120684f17af24a1f7c85930aa00eeb25
-#EXTINF:-1 tvg-name="八大精彩台" group-title="",八大精彩台
+#EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1743.png" group-title="",八大精彩台
 https://cc.gxdx.org/hami/1528.m3u8?key=120684f17af24a1f7c85930aa00eeb25
-#EXTINF:-1 tvg-name="公視戲劇" group-title="",公視戲劇
+#EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1743.png" group-title="",公視戲劇
 https://cc.gxdx.org/hami/1555.m3u8?key=120684f17af24a1f7c85930aa00eeb25
-#EXTINF:-1 tvg-name="影迷數位紀實台" group-title="",影迷數位紀實台
+#EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1743.png" group-title="",影迷數位紀實台
 https://cc.gxdx.org/hami/2113.m3u8?key=120684f17af24a1f7c85930aa00eeb25
-#EXTINF:-1 tvg-name="影迷數位電影台" group-title="",影迷數位電影台
+#EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1743.png" group-title="",影迷數位電影台
 https://cc.gxdx.org/hami/1689.m3u8?key=120684f17af24a1f7c85930aa00eeb25
-#EXTINF:-1 tvg-name="愛爾達影劇台" group-title="",愛爾達影劇台
+#EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1743.png" group-title="",愛爾達影劇台
 https://cc.gxdx.org/hami/1517.m3u8?key=120684f17af24a1f7c85930aa00eeb25
-#EXTINF:-1 tvg-name="愛爾達日韓台" group-title="",愛爾達日韓台
+#EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1743.png" group-title="",愛爾達日韓台
 https://cc.gxdx.org/hami/2079.m3u8?key=120684f17af24a1f7c85930aa00eeb25
-#EXTINF:-1 tvg-name="民視影劇台" group-title="",民視影劇台
+#EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1743.png" group-title="",民視影劇台
 https://cc.gxdx.org/hami/1551.m3u8?key=120684f17af24a1f7c85930aa00eeb25
-#EXTINF:-1 tvg-name="采昌影劇台" group-title="",采昌影劇台
+#EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1743.png" group-title="",采昌影劇台
 https://cc.gxdx.org/hami/1635.m3u8?key=120684f17af24a1f7c85930aa00eeb25
-#EXTINF:-1 tvg-name="金光布袋戲" group-title="",金光布袋戲
+#EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1743.png" group-title="",金光布袋戲
 https://cc.gxdx.org/hami/1915.m3u8?key=120684f17af24a1f7c85930aa00eeb25
-#EXTINF:-1 tvg-name="靖洋戲劇台" group-title="",靖洋戲劇台
+#EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1743.png" group-title="",靖洋戲劇台
 https://cc.gxdx.org/hami/2096.m3u8?key=120684f17af24a1f7c85930aa00eeb25
 #EXTINF:-1 tvg-name="龍華偶像" group-title="",龍華偶像
 https://cc.gxdx.org/hami/1904.m3u8?key=120684f17af24a1f7c85930aa00eeb25
