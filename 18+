@@ -6,7 +6,6 @@ http://srteamhls.gotvsports.com:41111/5bllcktdn92dudy6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/81431f04-f2cc-4639-a8fb-b00a34626baf.jpg" group-title="酒店源+",松視3
 http://srteamhls.gotvsports.com:41111/nzz5mti2l46gknhp/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/eaaa3a75-ba73-4d2b-997d-211050f16375.jpg" group-title="酒店源+",松視4(IJK軟解)
-http://77.90.15.78/YC20161015.php?id=4
 http://166.88.186.26/live/ss4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/a0e10586-6af7-4e7a-b4cf-2a3ea5a0a7e2.jpg" group-title="酒店源+",Hiplay玩家頻道
 http://77.90.15.78/YC20161015.php?id=16
@@ -42,11 +41,3 @@ http://125.227.210.55:3016/VideoInput/play.ts
 http://125.227.210.55:1009/VideoInput/play.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.Z_-RH7ufJucyi56LLk3TVQHaEo?r=0&pid=Api&h=220&P=0" group-title="酒店源+",風雲夜場11
 http://77.90.15.78/YC20161015.php?id=33
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.Z_-RH7ufJucyi56LLk3TVQHaEo?r=0&pid=Api&h=220&P=0" group-title="酒店源+",風雲夜場9
-http://77.90.15.78/YC20161015.php?id=31
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.Z_-RH7ufJucyi56LLk3TVQHaEo?r=0&pid=Api&h=220&P=0" group-title="酒店源+",風雲夜場7
-http://77.90.15.78/YC20161015.php?id=29
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.Z_-RH7ufJucyi56LLk3TVQHaEo?r=0&pid=Api&h=220&P=0" group-title="酒店源+",風雲夜場6
-http://77.90.15.78/YC20161015.php?id=28
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.Z_-RH7ufJucyi56LLk3TVQHaEo?r=0&pid=Api&h=220&P=0" group-title="酒店源+",風雲夜場0
-http://77.90.15.78/YC20161015.php?id=14
