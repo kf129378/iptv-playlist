@@ -131,12 +131,14 @@ https://cc.gxdx.org/hami/2003.m3u8?key=120684f17af24a1f7c85930aa00eeb25
 https://cc.gxdx.org/hami/2004.m3u8?key=120684f17af24a1f7c85930aa00eeb25
 #EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@88@1560_20230303074207.png" group-title="",TVBS新聞台
 https://cc.gxdx.org/hami/1560.m3u8?key=120684f17af24a1f7c85930aa00eeb25
+#EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@88@1561_20230303074155.png" group-title="",TVBS
+https://cc.gxdx.org/hami/1561.m3u8?key=120684f17af24a1f7c85930aa00eeb25
+#EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@30@1562.png" group-title="",中天新聞台
+https://cc.gxdx.org/hami/1562.m3u8?key=120684f17af24a1f7c85930aa00eeb25
 #EXTINF:-1 tvg-name="" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000053.png" group-title="",三立iNEWS
 https://cc.gxdx.org/hami/1690.m3u8?key=120684f17af24a1f7c85930aa00eeb25
 #EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@32@1516.png" group-title="",三立新聞台
 https://cc.gxdx.org/hami/1516.m3u8?key=120684f17af24a1f7c85930aa00eeb25
-#EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@30@1562.png" group-title="",中天新聞台
-https://cc.gxdx.org/hami/1562.m3u8?key=120684f17af24a1f7c85930aa00eeb25
 #EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@30@1567.png" group-title="",中視新聞台
 https://cc.gxdx.org/hami/1567.m3u8?key=120684f17af24a1f7c85930aa00eeb25
 #EXTINF:-1 tvg-name="" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000052.png" group-title="",台視新聞台
@@ -191,8 +193,6 @@ https://cc.gxdx.org/hami/2094.m3u8?key=120684f17af24a1f7c85930aa00eeb25
 https://cc.gxdx.org/hami/1860.m3u8?key=120684f17af24a1f7c85930aa00eeb25
 #EXTINF:-1 tvg-name="" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000223.png" group-title="",ROCK X Stream
 https://cc.gxdx.org/hami/1861.m3u8?key=120684f17af24a1f7c85930aa00eeb25
-#EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@88@1561_20230303074155.png" group-title="",TVBS
-https://cc.gxdx.org/hami/1561.m3u8?key=120684f17af24a1f7c85930aa00eeb25
 #EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@88@1789_20201230161437.jpg" group-title="",TVBS精采台
 https://cc.gxdx.org/hami/1789.m3u8?key=120684f17af24a1f7c85930aa00eeb25
 #EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@144@1884_20201021112150.png" group-title="",tvN
