@@ -101,6 +101,8 @@ https://cc.gxdx.org/hami/1512.m3u8?key=120684f17af24a1f7c85930aa00eeb25
 https://cc.gxdx.org/hami/1971.m3u8?key=120684f17af24a1f7c85930aa00eeb25
 #EXTINF:-1 tvg-name="" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000286.png" group-title="",麥哲倫頻道
 https://cc.gxdx.org/hami/2093.m3u8?key=120684f17af24a1f7c85930aa00eeb25
+#EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@156@1867_20250205140137.jpg" group-title="",LOVE NATURE
+https://cc.gxdx.org/hami/1867.m3u8?key=120684f17af24a1f7c85930aa00eeb25
 #EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@144@1901_20210129153058.jpg" group-title="",HGTV居家樂活頻道
 https://cc.gxdx.org/hami/1901.m3u8?key=120684f17af24a1f7c85930aa00eeb25
 #EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@156@1859_20220621233610.jpg" group-title="",History
@@ -111,8 +113,6 @@ https://cc.gxdx.org/hami/2056.m3u8?key=120684f17af24a1f7c85930aa00eeb25
 https://cc.gxdx.org/hami/1970.m3u8?key=120684f17af24a1f7c85930aa00eeb25
 #EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@51@1914_20210323084621.jpg" group-title="",LiveABC互動英語頻道
 https://cc.gxdx.org/hami/1914.m3u8?key=120684f17af24a1f7c85930aa00eeb25
-#EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@156@1867_20250205140137.jpg" group-title="",LOVE NATURE
-https://cc.gxdx.org/hami/1867.m3u8?key=120684f17af24a1f7c85930aa00eeb25
 #EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1876_20200716144014.jpg" group-title="",PET CLUB TV
 https://cc.gxdx.org/hami/1876.m3u8?key=120684f17af24a1f7c85930aa00eeb25
 #EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@210@1756_20210901102231.jpg" group-title="",Travel Channel
