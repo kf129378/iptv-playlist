@@ -1,10 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/11bc4a78-b8ce-45e5-973c-0a6119b30c3a.jpg" group-title="酒店源+",松視1
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+http://36.235.101.41:8022/udp/230.1.2.142:11111
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/699bb22e-7d0b-4af6-b408-c9b294fdf3fc.jpg" group-title="酒店源+",松視2
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+http://36.235.101.41:8022/udp/224.1.4.149:11111
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/81431f04-f2cc-4639-a8fb-b00a34626baf.jpg" group-title="酒店源+",松視3
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+http://36.235.101.41:8022/udp/224.1.4.253:11111
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/eaaa3a75-ba73-4d2b-997d-211050f16375.jpg" group-title="酒店源+",松視4(IJK軟解)
 http://166.88.186.26/live/ss4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/a0e10586-6af7-4e7a-b4cf-2a3ea5a0a7e2.jpg" group-title="酒店源+",Hiplay玩家頻道
@@ -17,6 +20,7 @@ http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
 http://36.235.101.41:8022/udp/224.1.4.175:11111
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/6e651752-07cd-4ce1-82b0-e6ec96748c90.jpg" group-title="酒店源+",彩虹E
 http://x315601.serv00.net/cr.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/8c855daa/index.m3u8
+http://36.235.101.41:8022/udp/224.1.4.141:11111
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/f7dc8732-3f2f-4023-9a1a-b965cd2f0074.jpg" group-title="酒店源+",彩虹電影
 http://36.235.101.41:8022/udp/224.1.4.164:11111
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/fbe2894d-f5b2-45fb-8514-696e600e1111.jpg" group-title="酒店源+",樂活頻道
@@ -25,12 +29,16 @@ http://srteamhls.gotvsports.com:41111/i0a2mditbdzv0h4e/index.m3u8
 http://srteamhls.gotvsports.com:41111/krxh0hci5hfbsq7o/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/b6e7c60d-fe03-4eb5-a9e9-36a2c46f7179.jpg" group-title="酒店源+",Happy
 http://x315601.serv00.net/cr.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/mdfdc125/index.m3u8
+http://36.235.101.41:8022/udp/224.1.4.186:11111
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/eae9b9b8-5e68-46f9-9e7b-88379f41861b.jpg" group-title="酒店源+",香蕉台
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/117.ts
+http://36.235.101.41:8022/udp/224.1.4.205:11111
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/162f23c1-7f68-4ba8-846f-2b58f35976f5.jpg" group-title="酒店源+",極限電影
 http://x315601.serv00.net/cr.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/8c855fdf/index.m3u8
+http://36.235.101.41:8022/udp/230.1.2.152:11111
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/77b55449-8e18-4dcb-8c2d-a45c5ee715f1.jpg" group-title="酒店源+",驚豔電影
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+http://36.235.101.41:8022/udp/224.1.4.204:11111
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/77b55449-8e18-4dcb-8c2d-a45c5ee715f1.jpg" group-title="酒店源+",驚豔1台
 http://125.227.210.55:1022/VideoInput/play.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/77b55449-8e18-4dcb-8c2d-a45c5ee715f1.jpg" group-title="酒店源+",驚豔2台
