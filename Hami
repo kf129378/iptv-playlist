@@ -55,6 +55,10 @@ https://cc.gxdx.org/hami/2097.m3u8?key=120684f17af24a1f7c85930aa00eeb25
 https://cc.gxdx.org/hami/1752.m3u8?key=120684f17af24a1f7c85930aa00eeb25
 #EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@156@2005_20230117102027.jpg" group-title="",ROCK Action
 https://cc.gxdx.org/hami/2005.m3u8?key=120684f17af24a1f7c85930aa00eeb25
+#EXTINF:-1 tvg-name="" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000229.png" group-title="",ROCK Entertainment
+https://cc.gxdx.org/hami/1860.m3u8?key=120684f17af24a1f7c85930aa00eeb25
+#EXTINF:-1 tvg-name="" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000223.png" group-title="",ROCK X Stream
+https://cc.gxdx.org/hami/1861.m3u8?key=120684f17af24a1f7c85930aa00eeb25
 #EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@144@1888_20201110165836.png" group-title="",Warner TV
 https://cc.gxdx.org/hami/1888.m3u8?key=120684f17af24a1f7c85930aa00eeb25
 #EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@88@1528_20230223082342.png" group-title="",八大精彩台
@@ -191,10 +195,6 @@ https://cc.gxdx.org/hami/1539.m3u8?key=120684f17af24a1f7c85930aa00eeb25
 https://cc.gxdx.org/hami/1938.m3u8?key=120684f17af24a1f7c85930aa00eeb25
 #EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@343@2094_20250327091237.jpg" group-title="",momo綜合台
 https://cc.gxdx.org/hami/2094.m3u8?key=120684f17af24a1f7c85930aa00eeb25
-#EXTINF:-1 tvg-name="" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000229.png" group-title="",ROCK Entertainment
-https://cc.gxdx.org/hami/1860.m3u8?key=120684f17af24a1f7c85930aa00eeb25
-#EXTINF:-1 tvg-name="" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000223.png" group-title="",ROCK X Stream
-https://cc.gxdx.org/hami/1861.m3u8?key=120684f17af24a1f7c85930aa00eeb25
 #EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@88@1789_20201230161437.jpg" group-title="",TVBS精采台
 https://cc.gxdx.org/hami/1789.m3u8?key=120684f17af24a1f7c85930aa00eeb25
 #EXTINF:-1 tvg-name="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@144@1884_20201021112150.png" group-title="",tvN
