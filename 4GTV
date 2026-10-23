@@ -27,6 +27,8 @@ https://play-drm.aliiptv.com/live/lstime.m3u8?verify=1790055805-hYx1isexkNhv_YYv
 https://play-drm.aliiptv.com/live/dsdy.m3u8?verify=1790055773-aWnRKgjtW53iZTzuI798W4rK9w-DqJ0dUguzl47DfAY
 #EXTINF:-1 tvg-id="世新" tvg-name="東森洋片" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/a3425a45-f533-4283-afe3-0839a226f7e2.jpg" group-title="其他系列",東森洋片
 https://play-drm.aliiptv.com/live/dsyp.m3u8?verify=1790055742-nUiApG2-yy5wpOcVZw5t_wVHbI7BHUYCVCdWMP-w0M8
+#EXTINF:-1 tvg-id="世新" tvg-name="美亞電影HK" tvg-logo="https://img1.baidu.com/it/u=213038799,1805145312&fm=253&fmt=auto&app=120&f=JPEG?w=667&h=500" group-title="其他系列",美亞電影HK
+https://lihi.cc/qeA7e
 #EXTINF:-1 tvg-id="世新" tvg-name="CHC影迷" tvg-logo="https://jrys.top/channellogo/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png" group-title="其他系列",CHC影迷
 https://lihi3.cc/0ukYX
 #EXTINF:-1 tvg-id="世新" tvg-name="CHC動作" tvg-logo="https://jrys.top/channellogo/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png" group-title="其他系列",CHC動作
@@ -48,5 +50,5 @@ http://8.155.43.98:35455/douyu/8067328
 https://lihi3.cc/ubJCI
 #EXTINF:-1 tvg-id="世新" tvg-name="4GTV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live120_mobile.png" group-title="其他系列",愛爾達生活旅遊
 https://www.caonizuzong.cc.cd/4gtv?id=4gtv-live120
-#EXTINF:-1 tvg-id="世新" tvg-name="4GTV" tvg-logo=https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-xinchuang06.png" group-title="其他系列",博斯高球二台
+#EXTINF:-1 tvg-id="世新" tvg-name="4GTV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-xinchuang06.png" group-title="其他系列",博斯高球二台
 https://www.caonizuzong.cc.cd/4gtv?id=litv-xinchuang06
