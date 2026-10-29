@@ -27,9 +27,9 @@ https://play-drm.aliiptv.com/live/lstime.m3u8?verify=1790055805-hYx1isexkNhv_YYv
 https://play-drm.aliiptv.com/live/dsdy.m3u8?verify=1790055773-aWnRKgjtW53iZTzuI798W4rK9w-DqJ0dUguzl47DfAY
 #EXTINF:-1 tvg-id="世新" tvg-name="東森洋片" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/a3425a45-f533-4283-afe3-0839a226f7e2.jpg" group-title="其他系列",東森洋片
 https://play-drm.aliiptv.com/live/dsyp.m3u8?verify=1790055742-nUiApG2-yy5wpOcVZw5t_wVHbI7BHUYCVCdWMP-w0M8
-#EXTINF:-1 tvg-id="世新" tvg-name="CatchPlay電影" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000077.png" group-title="其他系列",CatchPlay電影
+#EXTINF:-1 tvg-id="世新" tvg-name="CatchPlay電影" tvg-logo="https://jrys.top/channellogo/CATCHPLAY%E7%94%B5%E5%BD%B1%E5%8F%B0.png" group-title="其他系列",CatchPlay電影
 mitv://135.148.104.228:19806/2046ed507dca44d49599e36febbf9651
-#EXTINF:-1 tvg-id="世新" tvg-name="美亞電影TW" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000058.png" group-title="其他系列",美亞電影TW
+#EXTINF:-1 tvg-id="世新" tvg-name="美亞電影TW" tvg-logo="https://jrys.top/channellogo/%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1%E5%8F%B0.png" group-title="其他系列",美亞電影TW
 mitv://135.148.104.228:19806/e47a67c81b904771a40c3aa895df939d
 #EXTINF:-1 tvg-id="世新" tvg-name="美亞電影HK" tvg-logo="https://img1.baidu.com/it/u=213038799,1805145312&fm=253&fmt=auto&app=120&f=JPEG?w=667&h=500" group-title="其他系列",美亞電影HK
 https://lihi.cc/qeA7e
