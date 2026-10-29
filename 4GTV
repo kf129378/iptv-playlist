@@ -62,3 +62,9 @@ https://lihi2.cc/JXZTz
 mitv://147.135.39.171:9906/69761bda00023c029386316315e17e92
 #EXTINF:-1 tvg-id="世新" tvg-name="緯來精采台" tvg-logo="https://hd.videoland.com.tw/images/hd_logo.png" group-title="其他系列",緯來精采台
 mitv://147.135.39.171:9906/69761a590008a2949380532102a85ced
+#EXTINF:-1 tvg-id="世新" tvg-name="TVBS亞洲台" tvg-logo="https://jrys.top/channellogo/%E7%84%A1%E7%B7%9A%E8%A1%9B%E6%98%9F%E4%BA%9E%E6%B4%B2%E5%8F%B0.png" group-title="其他系列",TVBS亞洲台
+mitv://135.148.104.228:19806/68ed886a6504411bb545362494f5f9e8
+#EXTINF:-1 tvg-id="世新" tvg-name="三立國際台" tvg-logo="https://jrys.top/channellogo/%E4%B8%89%E7%AB%8B%E5%9B%BD%E9%99%85%E5%8F%B0.png" group-title="其他系列",三立國際台
+mitv://147.135.39.171:9906/6aa2b765000999e5418bf3dc02db2d3d
+#EXTINF:-1 tvg-id="世新" tvg-name="KIX" tvg-logo="https://jrys.top/channellogo/KIX.png" group-title="其他系列",KIX
+mitv://147.135.39.171:9906/696640ae0006c7cd5595edc650d91ea4
