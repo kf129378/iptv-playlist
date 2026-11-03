@@ -11,6 +11,8 @@ https://lihi.cc/SKPsj
 http://192.187.124.34:81/live/qsjl.m3u8
 #EXTINF:-1 tvg-id="世新" tvg-name="精彩影視" tvg-logo="https://bkimg.cdn.bcebos.com/pic/55e736d12f2eb9389b506ee99c3f9235e5dde711c121?x-bce-process=image/format,f_auto/resize,m_lfit,limit_1,w_1001" group-title="其他系列",精彩影視
 http://192.187.124.34:81/live/hsjcys.m3u8
+#EXTINF:-1 tvg-id="世新" tvg-name="iHOT愛院線" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/ihot01.png" group-title="其他系列",iHOT愛院線
+http://192.187.124.34:81/live/hsjcys.m3u8
 #EXTINF:-1 tvg-id="世新" tvg-name="" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.KohMbrO_6DpGFxRtGwtSdgHaDU?r=0&pid=Api&h=220&P=0" group-title="其他系列",CatchPlay電影
 mitv://135.148.104.228:19806/2046ed507dca44d49599e36febbf9651
 #EXTINF:-1 tvg-id="世新" tvg-name="美亞電影TW" tvg-logo="https://jrys.top/channellogo/%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1%E5%8F%B0.png" group-title="其他系列",美亞電影TW
