@@ -14,7 +14,7 @@ http://192.187.124.34:81/live/hsjcys.m3u8
 #EXTINF:-1 tvg-id="世新" tvg-name="iHOT愛院線" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/ihot01.png" group-title="其他系列",iHOT愛院線
 http://192.187.124.34:81/live/ihotayx.m3u8
 #EXTINF:-1 tvg-id="世新" tvg-name="美亞電影HK" tvg-logo="https://img1.baidu.com/it/u=213038799,1805145312&fm=253&fmt=auto&app=120&f=JPEG?w=667&h=500" group-title="其他系列",美亞電影HK
-mitv://135.148.104.228:19806/9a22715ea5b641088c677b52c897250a
+https://lihi.cc/qeA7e
 #EXTINF:-1 tvg-id="世新" tvg-name="CHC影迷" tvg-logo="https://jrys.top/channellogo/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png" group-title="其他系列",CHC影迷
 https://lihi3.cc/0ukYX
 #EXTINF:-1 tvg-id="世新" tvg-name="CHC動作" tvg-logo="https://jrys.top/channellogo/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png" group-title="其他系列",CHC動作
