@@ -13,7 +13,7 @@ http://192.187.124.34:81/live/qsjl.m3u8
 http://192.187.124.34:81/live/hsjcys.m3u8
 #EXTINF:-1 tvg-id="世新" tvg-name="iHOT愛院線" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/ihot01.png" group-title="其他系列",iHOT愛院線
 http://192.187.124.34:81/live/ihotayx.m3u8
-#EXTINF:-1 tvg-id="世新" tvg-name="CATCHplay" tvg-logo="https://scontent.ftpe7-1.fna.fbcdn.net/v/t39.30808-6/464865381_8490518630983447_8662162853661749100_n.png?stp=dst-png&cstp=mx600x600&ctp=s600x600&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=iSk4rCcC6AUQ7kNvwFXqaZ-&_nc_oc=AdpUcYsA060Upy1SrirX11f44p2PEhVL9wvCdCrFVOnXQKDyb4ngYtk2AXbg10sn0HM&_nc_zt=23&_nc_ht=scontent.ftpe7-1.fna&_nc_gid=o5oTkJH92kDRkajccu_LZg&_nc_ss=7b2a8&oh=00_AQTwwcI8LloOQOAgYSVteayF8h4JUknc1CuxZYWUNkS2uQ&oe=6AFE4A34" group-title="其他系列",CATCHPlay電影
+#EXTINF:-1 tvg-id="世新" tvg-name="CATCHplay" tvg-logo="https://yt3.googleusercontent.com/ojDRVZUc_dWfuhtk9af-JCwWIsy8wE7GmbJ8tXLVpnA8iusU529U0VwK8D-5DCdaHLgEtbBy=s160-c-k-c0x00ffffff-no-rj" group-title="其他系列",CATCHPlay電影
 https://lihi2.cc/COtBl
 #EXTINF:-1 tvg-id="世新" tvg-name="美亞電影HK" tvg-logo="https://img1.baidu.com/it/u=213038799,1805145312&fm=253&fmt=auto&app=120&f=JPEG?w=667&h=500" group-title="其他系列",美亞電影HK
 https://lihi.cc/qeA7e
