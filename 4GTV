@@ -15,7 +15,7 @@ http://192.187.124.34:81/live/hsjcys.m3u8
 http://192.187.124.34:81/live/ihotayx.m3u8
 #EXTINF:-1 tvg-id="世新" tvg-name="CATCHplay" tvg-logo="https://github.com/me-site/TVLOGO/blob/main/logo/CNTW/CatchPlay电影.png" group-title="其他系列",CATCHPlay電影
 https://lihi2.cc/COtBl
-#EXTINF:-1 tvg-id="世新" tvg-name="美亞電影HK" tvg-logo="https://img1.baidu.com/it/u=213038799,1805145312&fm=253&fmt=auto&app=120&f=JPEG?w=667&h=500" group-title="其他系列",美亞電影HK
+#EXTINF:-1 tvg-id="世新" tvg-name="美亞電影HK" tvg-logo="https://github.com/me-site/TVLOGO/blob/main/logo/CNHK/美亚电影香港.png" group-title="其他系列",美亞電影HK
 https://lihi.cc/qeA7e
 #EXTINF:-1 tvg-id="世新" tvg-name="CHC影迷" tvg-logo="https://jrys.top/channellogo/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png" group-title="其他系列",CHC影迷
 https://lihi3.cc/0ukYX
