@@ -13,7 +13,7 @@ http://192.187.124.34:81/live/qsjl.m3u8
 http://192.187.124.34:81/live/hsjcys.m3u8
 #EXTINF:-1 tvg-id="世新" tvg-name="iHOT愛院線" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/ihot01.png" group-title="其他系列",iHOT愛院線
 http://192.187.124.34:81/live/ihotayx.m3u8
-#EXTINF:-1 tvg-id="世新" tvg-name="CATCHplay" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/82239efe-2569-4fe2-99e7-c831b59b811c.jpg" group-title="其他系列",CATCHPlay電影
+#EXTINF:-1 tvg-id="世新" tvg-name="CATCHplay" tvg-logo="https://moviechannel.catchplay.com/wp-content/themes/CATCHPLAY/dist/assets/logo-c3b33817.svg" group-title="其他系列",CATCHPlay電影
 https://lihi2.cc/COtBl
 #EXTINF:-1 tvg-id="世新" tvg-name="美亞電影HK" tvg-logo="https://img1.baidu.com/it/u=213038799,1805145312&fm=253&fmt=auto&app=120&f=JPEG?w=667&h=500" group-title="其他系列",美亞電影HK
 https://lihi.cc/qeA7e
