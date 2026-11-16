@@ -29,8 +29,6 @@ http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02O
 http://8.138.7.223/tv/jsws4k.php
 #EXTINF:-1 tvg-id="世新" tvg-name="浙江衛視" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/浙江卫视4K.png" group-title="其他系列",衛視衛視4K(不穩)
 http://45.192.97.170:8880/play/6561.m3u8
-#EXTINF:-1 tvg-id="世新" tvg-name="東方衛視" tvg-logo="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN4K/东方卫视4K.png" group-title="其他系列",東方衛視4K(不穩)
-http://45.192.97.170:8880/play/10115.m3u8
 #EXTINF:-1 tvg-id="世新" tvg-name="270虎牙" tvg-logo="https://huyaimg.msstatic.com/avatar/1053/1d/d9fb1fe2130e3f7d5e80379b24ebca_180_135.jpg" group-title="其他系列",陳翔六點半
 https://lihi2.cc/cmMaX
 #EXTINF:-1 tvg-id="世新" tvg-name="262鬥魚" tvg-logo="https://apic.douyucdn.cn/upload/avatar/010/51/61/02_avatar_big.jpg" group-title="其他系列",孤獨美食家
