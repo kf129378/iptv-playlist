@@ -15,7 +15,8 @@ http://192.187.124.34:81/live/hsjcys.m3u8
 http://192.187.124.34:81/live/ihotayx.m3u8
 #EXTINF:-1 tvg-id="世新" tvg-name="CATCHplay" tvg-logo="https://iptv.yang-1989.xyz/logo/CATCHPLAY電影台.webp" group-title="其他系列",CATCHPlay電影
 https://lihi2.cc/COtBl
-https://iptv.yang-1989.xyz/tw/cn5fme.m3u8
+#EXTINF:-1 tvg-id="世新" tvg-name="東森電影" tvg-logo="https://jrys.top/channellogo/%E4%B8%9C%E6%A3%AE%E7%94%B5%E5%BD%B1.png" group-title="其他系列",東森電影
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=wLE3JN&tk=C93SlFFMMCKx
 #EXTINF:-1 tvg-id="世新" tvg-name="美亞電影HK" tvg-logo="https://github.com/me-site/TVLOGO/blob/main/logo/CNHK/%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1%E9%A6%99%E6%B8%AF.png?raw=true" group-title="其他系列",美亞電影HK
 https://lihi.cc/qeA7e
 #EXTINF:-1 tvg-id="世新" tvg-name="PopC" tvg-logo="https://iptv.yang-1989.xyz/logo/PopC.webp" group-title="其他系列",PopC
