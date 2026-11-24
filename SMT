@@ -9,15 +9,8 @@ http://50.7.233.114:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum
 http://50.7.233.114:8278/ftvhd_taiwan/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/258b33b2-262b-42e1-bb47-113563e59399.jpg" group-title="酒店源",公視HD
 http://50.7.233.114:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/95b402f2-18e7-4efc-a040-0dd5345fbbe5.png" group-title="酒店源",人間衛視HD
-https://nat1.gxdx.org/direct/hotel/live1198.m3u8?key=18d7591ba756cafd9b0e57663ad88e3167b802b613cd9392
-https://cc.qquu.bid/nas2-hotel/stream/live1198.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/77c60bde-0db4-4755-8b4f-109a7fed54dd.png" group-title="酒店源",大愛HD
-https://nat1.gxdx.org/direct/hotel/live1216.m3u8?key=18d7591ba756cafd9b0e57663ad88e3167b802b613cd9392
-https://cc.qquu.bid/nas2-hotel/stream/live1216.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/8cb0e6b2-78d6-4936-a1b8-7a3afdcc0ba3.png" group-title="酒店源",好消息HD
-https://nat1.gxdx.org/direct/hotel/live1231.m3u8?key=18d7591ba756cafd9b0e57663ad88e3167b802b613cd9392
-https://cc.qquu.bid/nas2-hotel/stream/live1231.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv17_mobile.png" group-title="酒店源",好消息2真理造就
+http://50.7.233.114:8278/good2_twn/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/0910e9ae-44c2-4a1d-9481-a9d3ad83ca5f.jpg" group-title="酒店源",BBC EARTH HD
 http://50.7.233.114:8278/bbcearth_twn/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/1e063521-ef37-4007-a389-2b322cad319c.jpg" group-title="酒店源",DISCOVERY HD
