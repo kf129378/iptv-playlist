@@ -277,9 +277,8 @@ http://sg.jjg.ccwu.cc/stream/live1037.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://jrys.top/channellogo/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="酒店源",湖南衛視
 https://nat1.gxdx.org/direct/hotel/live1038.m3u8?key=18d7591ba756cafd9b0e57663ad88e3167b802b613cd9392
 http://sg.jjg.ccwu.cc/stream/live1038.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://jrys.top/channellogo/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E5%8F%B0.png" group-title="酒店源",鳯凰衛視資訊
-https://nat1.gxdx.org/direct/hotel/live1210.m3u8?key=18d7591ba756cafd9b0e57663ad88e3167b802b613cd9392
-http://sg.jjg.ccwu.cc/stream/live1210.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" group-title="酒店源",天映頻道電影
+http://50.7.233.114:8278/Celestial/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png" group-title="酒店源",astro QJ
 http://50.7.233.114:8278/Quanjia/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://jrys.top/channellogo/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E5%8F%B0.png" group-title="酒店源",其他直播455
