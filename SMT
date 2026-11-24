@@ -232,6 +232,8 @@ http://50.7.233.114:8278/videolandsport/playlist.m3u8
 http://50.7.233.114:8278/eltasport1_twn/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000157.png" group-title="酒店源",愛爾達體育2
 http://50.7.233.114:8278/eltasport2_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000282.png" group-title="酒店源",愛爾達體育4
+http://50.7.233.114:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/0c2f00ca-f394-413a-8b8f-9723b64c1916.jpg" group-title="酒店源",博斯高球一台HD
 https://nat1.gxdx.org/direct/alt/live1117.m3u8?key=18d7591ba756cafd9b0e57663ad88e3167b802b613cd9392
 http://sg.jjg.ccwu.cc/alt-stream/live1117.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
