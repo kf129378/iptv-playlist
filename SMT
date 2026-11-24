@@ -150,7 +150,7 @@ https://cc.qquu.bid/nas2-hotel/stream/live1016.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvl
 http://50.7.233.114:8278/tvbs_n/playlist.m3u8?tid=mcd0148723081a&ct=11534127487&tsum=aeb784b1c69b56b185406e99a456d29d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/8fe6edf1-6cb9-4bf3-8a85-c7c24ea8d792.jpg" group-title="酒店源",TVBS HD
 http://50.7.233.114:8278/tvbs/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/8fe6edf1-6cb9-4bf3-8a85-c7c24ea8d792.jpg" group-title="酒店源",TVBS Asia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://jrys.top/channellogo/%E7%84%A1%E7%B7%9A%E8%A1%9B%E6%98%9F%E4%BA%9E%E6%B4%B2%E5%8F%B0.png" group-title="酒店源",TVBS Asia
 http://50.7.233.114:8278/Tvbasia/playlist.m3u8?tid=mcf8bbea8e5a04&ct=11720570279&tsum=3155278951a318e55c09f7cd2d686077
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/a1c69218-3b5a-44c9-8e07-a18551c1066b.jpg" group-title="酒店源",東森財經HD
 http://50.7.233.114:8278/ettvcaijing_twn/playlist.m3u8
