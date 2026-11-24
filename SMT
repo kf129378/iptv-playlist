@@ -53,9 +53,6 @@ http://50.7.233.114:8278/sanlidouhui_twn/playlist.m3u8?tid=m1edef566466e&ct=1860
 http://50.7.233.114:8278/weishichinese_twn/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/a47744bf-8ee7-445a-929c-a48af8332af2.jpg" group-title="酒店源",東森綜合HD
 http://50.7.233.114:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/20b79dac-1088-4d6b-a0b5-fa8680682ef1.jpg" group-title="酒店源",東森超視HD
-https://nat1.gxdx.org/direct/hotel/live1180.m3u8?key=18d7591ba756cafd9b0e57663ad88e3167b802b613cd9392
-https://cc.qquu.bid/nas2-hotel/stream/live1180.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/2add40a1-750a-4c50-b282-67cbcd0dfdab.png" group-title="酒店源",中天綜合HD
 http://50.7.233.114:8278/ctizhonghe/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/ce62aadf-1e7c-41b9-86fa-c3fbe994d637.png" group-title="酒店源",中天娛樂HD
