@@ -131,8 +131,7 @@ https://cc.qquu.bid/nas2-hotel/stream/live1010.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvl
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/b815c2de-abba-4ec3-8be1-b2a8cfd2279a.png" group-title="酒店源",緯來日本HD
 http://50.7.233.114:8278/videolandjapan/playlist.m3u8?tid=mc2ccf10825296&ct=11722670369&tsum=6ad55b92dd6a7921cac540ff08f82a82
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/41838a51-d33e-4270-aafd-1f28f1ce4af0.jpg" group-title="酒店源",壹新聞HD
-https://nat1.gxdx.org/direct/hotel/live1242.m3u8?key=18d7591ba756cafd9b0e57663ad88e3167b802b613cd9392
-https://cc.qquu.bid/nas2-hotel/stream/live1242.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
+http://50.7.233.114:8278/yinews/playlist.m3u8?tid=mc2ccf10825296&ct=11722670369&tsum=d2d2e257143b797bdd87599c64a25df3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/884ba215-a541-48ba-98d3-b749bb4c22b6.png" group-title="酒店源",年代新聞HD
 http://50.7.233.114:8278/niandainews_twn/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/a93a8a7d-efd4-4a1f-b81c-46963a48d8c8.jpg" group-title="酒店源",東森新聞HD
@@ -141,8 +140,7 @@ http://50.7.233.114:8278/ettvnews/playlist.m3u8?tid=mcd0148723081a&ct=1153412748
 https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 http://50.7.233.114:8278/ctinews/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/a600e433-186b-4288-ade4-d8436be0f1b7.jpg" group-title="酒店源",民視新聞HD
-https://nat1.gxdx.org/direct/hotel/live1204.m3u8?key=18d7591ba756cafd9b0e57663ad88e3167b802b613cd9392
-https://cc.qquu.bid/nas2-hotel/stream/live1204.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
+http://50.7.233.114:8278/ftvnew_taiwan/playlist.m3u8?tid=mc2ccf10825296&ct=11722670369&tsum=20942af899eaa58ebf0bff8a7e9ce46b
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.o5OdjOYs7qlKpB5oZxFX-AAAAA?r=0&pid=Api&h=220&P=0" group-title="酒店源",三立新聞HD
 https://nat1.gxdx.org/direct/hotel/live1016.m3u8?key=18d7591ba756cafd9b0e57663ad88e3167b802b613cd9392
 https://cc.qquu.bid/nas2-hotel/stream/live1016.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
