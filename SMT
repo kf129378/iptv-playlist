@@ -130,7 +130,7 @@ https://nat1.gxdx.org/direct/hotel/live1010.m3u8?key=18d7591ba756cafd9b0e57663ad
 https://cc.qquu.bid/nas2-hotel/stream/live1010.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/b815c2de-abba-4ec3-8be1-b2a8cfd2279a.png" group-title="酒店源",緯來日本HD
 http://50.7.233.114:8278/videolandjapan/playlist.m3u8?tid=mc2ccf10825296&ct=11722670369&tsum=6ad55b92dd6a7921cac540ff08f82a82
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/41838a51-d33e-4270-aafd-1f28f1ce4af0.jpg" group-title="酒店源",三立iNEWS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/ea9b7432-fc9c-49f0-9d10-0e4cd75724e5.jpg" group-title="酒店源",三立iNEWS
 http://50.7.233.114:8278/ctiasia_twn/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/41838a51-d33e-4270-aafd-1f28f1ce4af0.jpg" group-title="酒店源",壹新聞HD
 http://50.7.233.114:8278/yinews/playlist.m3u8?tid=mc2ccf10825296&ct=11722670369&tsum=d2d2e257143b797bdd87599c64a25df3
@@ -230,7 +230,7 @@ http://50.7.233.114:8278/eltasport2_twn/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/0c2f00ca-f394-413a-8b8f-9723b64c1916.jpg" group-title="酒店源",博斯高球一台HD
 https://nat1.gxdx.org/direct/alt/live1117.m3u8?key=18d7591ba756cafd9b0e57663ad88e3167b802b613cd9392
 http://sg.jjg.ccwu.cc/alt-stream/live1117.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/229b148a-d8aa-417d-b5bb-6f9145151ba4.jpg" group-title="酒店源",博斯運動一台HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/229b148a-d8aa-417d-b5bb-6f9145151ba4.jpg" group-title="酒店源",博斯運動一台
 http://50.7.233.114:8278/bosisport1_twn/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/08055e0f-a3a4-4ff1-be63-9f1237e23c58.jpg" group-title="酒店源",博斯運動二台HD
 https://nat1.gxdx.org/direct/hotel/live1225.m3u8?key=18d7591ba756cafd9b0e57663ad88e3167b802b613cd9392
