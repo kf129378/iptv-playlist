@@ -232,9 +232,10 @@ https://nat1.gxdx.org/direct/alt/live1117.m3u8?key=18d7591ba756cafd9b0e57663ad88
 http://sg.jjg.ccwu.cc/alt-stream/live1117.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/229b148a-d8aa-417d-b5bb-6f9145151ba4.jpg" group-title="酒店源",博斯運動一台
 http://50.7.233.114:8278/bosisport1_twn/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/08055e0f-a3a4-4ff1-be63-9f1237e23c58.jpg" group-title="酒店源",博斯運動二台HD
-https://nat1.gxdx.org/direct/hotel/live1225.m3u8?key=18d7591ba756cafd9b0e57663ad88e3167b802b613cd9392
-http://sg.jjg.ccwu.cc/stream/live1225.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/0e569661-3aab-48b5-a14a-bbdb44295f86.jpg" group-title="酒店源",博斯高球二台
+http://50.7.233.114:8278/bosigolf2_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/4db9aae8-44dd-4a13-81fe-85c6de82e3b8.jpg" group-title="酒店源",博斯無限
+http://50.7.233.114:8278/bosiunlimited_twn/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/63841d34-9528-4e04-a4a7-35498d787ca9.jpg" group-title="酒店源",momo綜合HD
 https://nat1.gxdx.org/direct/hotel/live1248.m3u8?key=18d7591ba756cafd9b0e57663ad88e3167b802b613cd9392
 http://sg.jjg.ccwu.cc/stream/live1248.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
@@ -279,9 +280,8 @@ http://sg.jjg.ccwu.cc/stream/live1038.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://jrys.top/channellogo/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E5%8F%B0.png" group-title="酒店源",鳯凰衛視資訊
 https://nat1.gxdx.org/direct/hotel/live1210.m3u8?key=18d7591ba756cafd9b0e57663ad88e3167b802b613cd9392
 http://sg.jjg.ccwu.cc/stream/live1210.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://jrys.top/channellogo/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87%E5%8F%B0.png" group-title="酒店源",鳯凰衛視中文
-https://nat1.gxdx.org/direct/hotel/live1213.m3u8?key=18d7591ba756cafd9b0e57663ad88e3167b802b613cd9392
-http://sg.jjg.ccwu.cc/stream/live1213.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png" group-title="酒店源",astro QJ
+http://50.7.233.114:8278/Quanjia/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://jrys.top/channellogo/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E5%8F%B0.png" group-title="酒店源",其他直播455
 https://lihi.cc/R9JJ4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://jrys.top/channellogo/ASTRO%20AEC.png" group-title="酒店源",其他直播456
