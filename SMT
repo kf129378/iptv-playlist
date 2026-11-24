@@ -41,10 +41,10 @@ http://50.7.233.114:8278/videolandzonghe/playlist.m3u8
 http://50.7.233.114:8278/badafirst/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/9e8a92e3-bc90-4cf1-a9f6-3356541915a8.jpg" group-title="酒店源",八大綜合HD
 http://50.7.233.114:8278/badazhonghe/playlist.m3u8?tid=m1edef566466e&ct=18603&tsum=658e11d4816deae0611ac7f69bc772bc&st2=1607355381&ss=352740687ca035766595d9e73c245d13
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000040.png" group-title="酒店源",三立戲劇HD
-https://lihi.cc/CoKCl
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://jrys.top/channellogo/%E4%B8%89%E7%AB%8B%E7%BB%BC%E5%90%88%E5%8F%B0.png" group-title="酒店源",三立綜合HD
 http://50.7.233.114:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000040.png" group-title="酒店源",三立戲劇HD
+https://lihi.cc/CoKCl
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/43cc2ef4-14c1-4296-bb03-c704552fd8a2.png" group-title="酒店源",三立台灣HD
 http://50.7.233.114:8278/sanlitaiwan/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.oDPnHUfBbJy6gFNxg0PNlwAAAA?r=0&pid=Api&h=220&P=0" group-title="酒店源",三立都會HD
