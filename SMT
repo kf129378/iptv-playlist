@@ -209,8 +209,7 @@ http://50.7.233.114:8278/ettvwestern/playlist.m3u8?tid=mc2ccf10825296&ct=1172267
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/ba3c81b3-c7e1-455e-9e52-d27fa6a4d8dd.png" group-title="酒店源",HBO HD
 http://50.7.233.114:8278/hbohd_twn/playlist.m3u8?tid=m1edef566466e&ct=18603&tsum=af9f63e3ce17d907fc75fc549b2b88c4&st2=1607359673&ss=fb6fb6091c683a55e8a064f9ba1f0a8c
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/62e79240-ce89-4012-afc0-ff86d1bf7714.jpg" group-title="酒店源",AXN HD
-https://nat1.gxdx.org/direct/hotel/live1054.m3u8?key=18d7591ba756cafd9b0e57663ad88e3167b802b613cd9392
-http://sg.jjg.ccwu.cc/stream/live1054.m3u8?key=XqVGqY6w4-aUy3ROcV8WJdvlD2USxBfL
+http://50.7.234.10:8278/axn_twn/playlist.m3u8?tid=mcd0148723081a&ct=11534127487&tsum=3dcf9b3181c32451c5947e3c89f5a59f
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/41c9b2c2-c9e5-44a8-9793-ecf42eb94020.png" group-title="酒店源",CINEMAX HD
 http://50.7.233.114:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=17874&tsum=63ee6bcdb705ee72ea3d0f0d84ed6df1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/d8b288ae-e435-47da-83a3-1bed3fa117af.jpg" group-title="酒店源",AMC電影台
