@@ -13,6 +13,8 @@ http://50.7.233.114:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsu
 http://50.7.233.114:8278/good2_twn/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/0910e9ae-44c2-4a1d-9481-a9d3ad83ca5f.jpg" group-title="酒店源",BBC EARTH HD
 http://50.7.233.114:8278/bbcearth_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000120.png" group-title="酒店源",BBC Lifestyle
+http://xsmt.ccwu.cc/xsmt/smt.php?id=2038
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/1e063521-ef37-4007-a389-2b322cad319c.jpg" group-title="酒店源",DISCOVERY HD
 http://xsmt.ccwu.cc/xsmt/smt.php?id=2878
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/c1249ca9-6f36-40ab-b6c1-5be42123020d.jpg" group-title="酒店源",DISCOVERY Asia
